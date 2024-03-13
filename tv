@@ -439,25 +439,25 @@ http://xtv.ooo:8080/live/T4S00515/820172/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png" group-title="TV SHOW", Super Dancer
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 1
 http://xtv.ooo:8080/live/T4S00515/820172/268021.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 2
 http://xtv.ooo:8080/live/T4S00515/820172/341039.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 3
 http://xtv.ooo:8080/live/T4S00515/820172/341040.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 4
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 4
 http://xtv.ooo:8080/live/T4S00515/820172/341041.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 5
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 5
 http://xtv.ooo:8080/live/T4S00515/820172/341043.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 6
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 6
 http://xtv.ooo:8080/live/T4S00515/820172/253596.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 7
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 7
 http://xtv.ooo:8080/live/T4S00515/820172/263394.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 8
 http://xtv.ooo:8080/live/T4S00515/820172/251578.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 9
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 9
 http://xtv.ooo:8080/live/T4S00515/820172/251580.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="HASANVAI", Movies Server 10
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 10
 http://xtv.ooo:8080/live/T4S00515/820172/251590.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
 https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=155&e=.m3u8|User-Agent=test69

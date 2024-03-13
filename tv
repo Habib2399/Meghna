@@ -751,6 +751,9 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ILv7SIh.jpg" group-title="DOCUMENTARY", Discovery Asia
 http://line.tivi-one.net/live/RLHNCDE/N0iE82ur6Z/382920.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/g7I8nnR.png" group-title="DOCUMENTARY", Geo Wild
+https://ythls-v2.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="DOCUMENTARY", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="DOCUMENTARY", Food Network

@@ -70,7 +70,7 @@ http://xtv.ooo:8080/live/7082785282/90643795158/245904.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESHI", Channel 9
 http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
-http://xtv.ooo:8080/live/7082785282/90643795158/245969.ts
+https://ythls-v2.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV

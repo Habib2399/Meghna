@@ -58,9 +58,9 @@ http://xtv.ooo:8080/live/7082785282/90643795158/245937.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
 https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+http://xtv.ooo:8080/live/7082785282/90643795158/245920.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
-http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
+http://xtv.ooo:8080/live/7082785282/90643795158/245946.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png" group-title="BANGLADESHI", Somay News
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent

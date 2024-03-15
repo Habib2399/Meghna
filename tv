@@ -80,7 +80,7 @@ https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="BANGLADESHI", Gaan Bangla
 http://xtv.ooo:8080/live/7082785282/90643795158/245935.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
-https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=25&e=.m3u8|User-Agent=test69
+http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gtv
 http://103.142.80.22:8080/GAZI/index.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports

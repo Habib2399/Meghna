@@ -369,8 +369,10 @@ http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://xtv.ooo:8080/live/T4S00515/820172/104201.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", BFLIX Movie
+#EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
 http://xtv.ooo:8080/live/T4S00515/820172/104190.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", BFLIX Movie
+http://xtv.ooo:8080/live/7082785282/90643795158/66184.m3u8
 #EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
 http://xtv.ooo:8080/live/T4S00515/820172/374980.ts
 #EXTINF: -1 tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES

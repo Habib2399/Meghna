@@ -1,4 +1,4 @@
-+#EXTM3U 
+#EXTM3U 
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ2GrPv9/images.jpg" group-title="ISLAMIC", Peace Tv
@@ -714,7 +714,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/167578.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4mi15gR.jpg" group-title="SPORTS", Star Sports Select 2
 http://xtv.ooo:8080/live/T4S00515/820172/167579.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BPL LIVE SERVER 1
-http://103.142.80.22:8080/GAZI/index.m3u8
+https://ythls-v2.onrender.com/channel/UCfspowIrImh18gq6HOz7q4A.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BPL LIVE SERVER 2
 http://103.142.80.22:8080/Channel-1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AbgZ6o9.jpg" group-title="LIVE NOW", BPL LIVE SERVER 3

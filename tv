@@ -82,7 +82,7 @@ http://xtv.ooo:8080/live/7082785282/90643795158/245935.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gtv
-http://103.142.80.22:8080/GAZI/index.m3u8
+https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1102
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
 https://bongohub.pw/api/hoichoi.m3u8?id=1101
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Dipto TV
@@ -197,8 +197,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-bangla
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png" group-title="KOLKATA", Colors Bangla HD
-http://xtv.ooo:8080/live/7082785282/90643795158/245895.ts
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://test.bongodrive.pw/test.php?ac=colors-bangla-cinema
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla

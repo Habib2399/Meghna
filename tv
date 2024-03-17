@@ -440,6 +440,7 @@ http://xtv.ooo:8080/live/7082785282/90643795158/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png" group-title="TV SHOW", Super Dancer
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 1
 http://xtv.ooo:8080/live/T4S00515/820172/268021.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 2
@@ -459,7 +460,44 @@ http://xtv.ooo:8080/live/T4S00515/820172/251578.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 9
 http://xtv.ooo:8080/live/T4S00515/820172/251580.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 10
-http://xtv.ooo:8080/live/T4S00515/820172/251590.ts
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 11
+http://xtv.ooo:8080/adnankb2006/86057314/253596
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 12
+http://xtv.ooo:8080/adnankb2006/86057314/253597
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 13
+http://xtv.ooo:8080/adnankb2006/86057314/253598
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 14
+http://xtv.ooo:8080/adnankb2006/86057314/263386
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 15
+http://xtv.ooo:8080/adnankb2006/86057314/263387
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 16
+http://xtv.ooo:8080/adnankb2006/86057314/263388
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 17
+http://xtv.ooo:8080/adnankb2006/86057314/263389
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 18
+http://xtv.ooo:8080/adnankb2006/86057314/263390
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 19
+http://xtv.ooo:8080/adnankb2006/86057314/263391
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 20
+http://xtv.ooo:8080/adnankb2006/86057314/263392
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 21
+http://xtv.ooo:8080/adnankb2006/86057314/263393
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 22
+http://xtv.ooo:8080/adnankb2006/86057314/263394
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 23
+http://xtv.ooo:8080/adnankb2006/86057314/263395
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 24
+http://xtv.ooo:8080/adnankb2006/86057314/263396
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 25
+http://xtv.ooo:8080/adnankb2006/86057314/362986
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 26
+http://xtv.ooo:8080/adnankb2006/86057314/362987
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 27
+http://xtv.ooo:8080/adnankb2006/86057314/362988
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/Vvmnhq5W/South-Indian-Movies.jpg", Movies Server 28
+http://xtv.ooo:8080/adnankb2006/86057314/362989
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
 https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=155&e=.m3u8|User-Agent=test69
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv

@@ -315,7 +315,7 @@ https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1607
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=max-2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
-http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-sd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors

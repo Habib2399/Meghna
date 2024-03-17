@@ -391,9 +391,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix
 http://xtv.ooo:8080/live/T4S00515/820172/66224.ts
 
-#EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv
-http://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UxJU_dgPcu8mVJetauMh
-
+#EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv 
+http://fashiontv-fashiontv-5-eu.plex.wurl.tv/playlist_960x540_2000k_6276738.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix HD
 http://xtv.ooo:8080/live/T4S00515/820172/66224.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies

@@ -297,10 +297,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture
+https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
 https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab

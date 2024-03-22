@@ -302,8 +302,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482
 https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
 https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
-
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
@@ -394,7 +392,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix
 http://xtv.ooo:8080/live/T4S00515/820172/66224.ts
-
 #EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv 
 http://fashiontv-fashiontv-5-eu.plex.wurl.tv/playlist_960x540_2000k_6276738.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix HD
@@ -441,6 +438,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RnWZ864.png" group-title="ENGLISH", KBS World
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AZwQQ3t.png" group-title="TV SHOW", The Kapil Sharma Show
 http://xtv.ooo:8080/live/T4S00515/820172/342075.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3J0qGaI.jpg" group-title="TV SHOW", indian Idol Show
@@ -449,6 +448,7 @@ http://xtv.ooo:8080/live/7082785282/90643795158/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png" group-title="TV SHOW", Super Dancer
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rTH9cWg.png" group-title="MOVIES", Movies Server 1
 http://xtv.ooo:8080/live/T4S00515/820172/268021.ts
@@ -573,6 +573,8 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3Qd5fSx.png" group-title="SPORTS", Sony Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Sony Sports 2 HD
@@ -762,12 +764,13 @@ http://xtv.ooo:8080/live/T4S00515/820172/167578.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4mi15gR.jpg" group-title="SPORTS", Star Sports Select 2
 http://xtv.ooo:8080/live/T4S00515/820172/167579.ts
 
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/K827wk3L/IPL-LOGO-853126591.jpg" group-title="LIVE NOW", IPL-2024-1
 https://s1.bongohub.pw/crichd.php?id=skyscric|referer=https://lovesomecommunity.com/.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/K827wk3L/IPL-LOGO-853126591.jpg" group-title="LIVE NOW", IPL-2024-2
 https://b.link/BDStreamHub/TATAIPL.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/K827wk3L/IPL-LOGO-853126591.jpg" group-title="LIVE NOW", IPL-2024-3
-https://s1.bongohub.pw/crichd.php?id=fox501|referer=https://lovesomecommunity.com/.m3u8
+https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjFrZbc1/IMG-20240319-042053.jpg" group-title="LIVE NOW", Bangladesh verses srilanka live-1
 https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjFrZbc1/IMG-20240319-042053.jpg" group-title="LIVE NOW", Bangladesh verses srilanka live-2

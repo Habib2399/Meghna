@@ -87,7 +87,7 @@ http://xtv.ooo:8080/live/7082785282/90643795158/245935.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gtv
-https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1102
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
 https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1101
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Dipto TV

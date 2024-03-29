@@ -1,6 +1,5 @@
 #EXTM3U 
 
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ2GrPv9/images.jpg" group-title="ISLAMIC", Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF: -1 tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
@@ -22,7 +21,6 @@ http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="ISLAMIC", Makka Live
 https://edge.taghtia.com/sa/7.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
 https://bongohub.pw/bioscope.php?cc=btv-hd
@@ -180,7 +178,6 @@ https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f07913
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yldyrvA.jpg" group-title="KOLKATA", Amar Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", AB TV
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
@@ -2417,142 +2414,7 @@ http://xtv.ooo:8080/T4S00515/820172/246010
 http://xtv.ooo:8080/T4S00515/820172/246011
 #EXTINF: -1 tvg-name="BD: channel S UK" group-title="BANGLADESH", BD: channel S UK
 http://xtv.ooo:8080/T4S00515/820172/301102
-#EXTINF: -1 tvg-id="10tv.in" tvg-name="â€¢â—â˜…--- Welcome ----â˜…â—â€¢" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="IND | RELIGIOUS", â€¢â—â˜…--- Welcome ----â˜…â—â€¢
-http://xtv.ooo:8080/T4S00515/820172/246163
-#EXTINF: -1 tvg-id="10tv.in" tvg-name="IND-regional: 10tv" group-title="IND | RELIGIOUS", IND-regional: 10tv
-http://xtv.ooo:8080/T4S00515/820172/246164
-#EXTINF: -1 tvg-name="IND-regional: 7SMUSIC" group-title="IND | RELIGIOUS", IND-regional: 7SMUSIC
-http://xtv.ooo:8080/T4S00515/820172/246165
-#EXTINF: -1 tvg-name="PkInd-regional: AAHOMUSIC" group-title="IND | RELIGIOUS", PkInd-regional: AAHOMUSIC
-http://xtv.ooo:8080/T4S00515/820172/246166
-#EXTINF: -1 tvg-id="abnandhrajyothy.in" tvg-name="IND-regional: ANDHRA_JYOTI" group-title="IND | RELIGIOUS", IND-regional: ANDHRA_JYOTI
-http://xtv.ooo:8080/T4S00515/820172/246167
-#EXTINF: -1 tvg-name="IND-regional: AP_24X7" group-title="IND | RELIGIOUS", IND-regional: AP_24X7
-http://xtv.ooo:8080/T4S00515/820172/246168
-#EXTINF: -1 tvg-id="atetv.in" tvg-name="IND-regional: ATE_TV" group-title="IND | RELIGIOUS", IND-regional: ATE_TV
-http://xtv.ooo:8080/T4S00515/820172/246169
-#EXTINF: -1 tvg-name="IND-regional: CALVARY_TV" group-title="IND | RELIGIOUS", IND-regional: CALVARY_TV
-http://xtv.ooo:8080/T4S00515/820172/246170
-#EXTINF: -1 tvg-name="IND-regional: CAPTAIN_TV" group-title="IND | RELIGIOUS", IND-regional: CAPTAIN_TV
-http://xtv.ooo:8080/T4S00515/820172/246171
-#EXTINF: -1 tvg-id="cvrnews.in" tvg-name="IND-regional: CVR_NEWS" group-title="IND | RELIGIOUS", IND-regional: CVR_NEWS
-http://xtv.ooo:8080/T4S00515/820172/246172
-#EXTINF: -1 tvg-id="dangal.in" tvg-name="IND-regional: Dangal" group-title="IND | RELIGIOUS", IND-regional: Dangal
-http://xtv.ooo:8080/T4S00515/820172/246173
-#EXTINF: -1 tvg-name="IND-regional: Darshana_Tv" group-title="IND | RELIGIOUS", IND-regional: Darshana_Tv
-http://xtv.ooo:8080/T4S00515/820172/246174
-#EXTINF: -1 tvg-name="IND-regional: Dheeran_TV" group-title="IND | RELIGIOUS", IND-regional: Dheeran_TV
-http://xtv.ooo:8080/T4S00515/820172/246175
-#EXTINF: -1 tvg-id="hmtv.in" tvg-name="IND-regional: HMTV" group-title="IND | RELIGIOUS", IND-regional: HMTV
-http://xtv.ooo:8080/T4S00515/820172/246176
-#EXTINF: -1 tvg-name="IND-regional: I_NEWS" group-title="IND | RELIGIOUS", IND-regional: I_NEWS
-http://xtv.ooo:8080/T4S00515/820172/246177
-#EXTINF: -1 tvg-name="IND-regional: IMAYAM_TV" group-title="IND | RELIGIOUS", IND-regional: IMAYAM_TV
-http://xtv.ooo:8080/T4S00515/820172/246178
-#EXTINF: -1 tvg-id="kairalitv.in" tvg-name="IND-regional: KAIRALI" group-title="IND | RELIGIOUS", IND-regional: KAIRALI
-http://xtv.ooo:8080/T4S00515/820172/246179
-#EXTINF: -1 tvg-name="IND-regional: KAIRALI_ARABIA" group-title="IND | RELIGIOUS", IND-regional: KAIRALI_ARABIA
-http://xtv.ooo:8080/T4S00515/820172/246180
-#EXTINF: -1 tvg-name="IND-regional: KAIRALI_NEWS" group-title="IND | RELIGIOUS", IND-regional: KAIRALI_NEWS
-http://xtv.ooo:8080/T4S00515/820172/246181
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_CHITHIRAM" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_CHITHIRAM
-http://xtv.ooo:8080/T4S00515/820172/246182
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_ISAI_ARUVI" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_ISAI_ARUVI
-http://xtv.ooo:8080/T4S00515/820172/246183
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_MURASU" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_MURASU
-http://xtv.ooo:8080/T4S00515/820172/246184
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_SEITHIGAL" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_SEITHIGAL
-http://xtv.ooo:8080/T4S00515/820172/246185
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_SIRIPPOLI" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_SIRIPPOLI
-http://xtv.ooo:8080/T4S00515/820172/246186
-#EXTINF: -1 tvg-name="IND-regional: KALAIGNAR_TV" group-title="IND | RELIGIOUS", IND-regional: KALAIGNAR_TV
-http://xtv.ooo:8080/T4S00515/820172/246187
-#EXTINF: -1 tvg-id="kalingatv.in" tvg-name="IND-regional: KALINGA_TV" group-title="IND | RELIGIOUS", IND-regional: KALINGA_TV
-http://xtv.ooo:8080/T4S00515/820172/246188
-#EXTINF: -1 tvg-name="IND-regional: Kerala_Vision" group-title="IND | RELIGIOUS", IND-regional: Kerala_Vision
-http://xtv.ooo:8080/T4S00515/820172/246189
-#EXTINF: -1 tvg-id="madhatv.in" tvg-name="IND-regional: MADHA_TV" group-title="IND | RELIGIOUS", IND-regional: MADHA_TV
-http://xtv.ooo:8080/T4S00515/820172/246190
-#EXTINF: -1 tvg-id="makkaltv.in" tvg-name="IND-regional: MAKKAL_TV" group-title="IND | RELIGIOUS", IND-regional: MAKKAL_TV
-http://xtv.ooo:8080/T4S00515/820172/246191
-#EXTINF: -1 tvg-name="IND-regional: MALAI_MURASU_SEITHIKAL" group-title="IND | RELIGIOUS", IND-regional: MALAI_MURASU_SEITHIKAL
-http://xtv.ooo:8080/T4S00515/820172/246192
-#EXTINF: -1 tvg-name="IND-regional: MANGALAM_TV" group-title="IND | RELIGIOUS", IND-regional: MANGALAM_TV
-http://xtv.ooo:8080/T4S00515/820172/246193
-#EXTINF: -1 tvg-id="manoramanews.in" tvg-name="IND-regional: Manorama_News_Central" group-title="IND | RELIGIOUS", IND-regional: Manorama_News_Central
-http://xtv.ooo:8080/T4S00515/820172/246194
-#EXTINF: -1 tvg-name="IND-regional: Manorama_News_North" group-title="IND | RELIGIOUS", IND-regional: Manorama_News_North
-http://xtv.ooo:8080/T4S00515/820172/246195
-#EXTINF: -1 tvg-id="mazhavilmanoramahd.in" tvg-name="IND-regional: Mazhavil_HD" group-title="IND | RELIGIOUS", IND-regional: Mazhavil_HD
-http://xtv.ooo:8080/T4S00515/820172/246196
-#EXTINF: -1 tvg-name="IND-regional: MBC_TV" group-title="IND | RELIGIOUS", IND-regional: MBC_TV
-http://xtv.ooo:8080/T4S00515/820172/246197
-#EXTINF: -1 tvg-id="mediaone.in" tvg-name="IND-regional: MEDIA_ONE" group-title="IND | RELIGIOUS", IND-regional: MEDIA_ONE
-http://xtv.ooo:8080/T4S00515/820172/246198
-#EXTINF: -1 tvg-name="IND-regional: MH_ONE_MUSIC" group-title="IND | RELIGIOUS", IND-regional: MH_ONE_MUSIC
-http://xtv.ooo:8080/T4S00515/820172/246199
-#EXTINF: -1 tvg-name="IND-regional: MH_ONE_NEWS" group-title="IND | RELIGIOUS", IND-regional: MH_ONE_NEWS
-http://xtv.ooo:8080/T4S00515/820172/246200
-#EXTINF: -1 tvg-name="IND-regional: MK_SIX" group-title="IND | RELIGIOUS", IND-regional: MK_SIX
-http://xtv.ooo:8080/T4S00515/820172/246201
-#EXTINF: -1 tvg-name="IND-regional: MK_TELEVISION" group-title="IND | RELIGIOUS", IND-regional: MK_TELEVISION
-http://xtv.ooo:8080/T4S00515/820172/246202
-#EXTINF: -1 tvg-name="IND-regional: MK_TUNES" group-title="IND | RELIGIOUS", IND-regional: MK_TUNES
-http://xtv.ooo:8080/T4S00515/820172/246203
-#EXTINF: -1 tvg-name="IND-regional: MOON_TV" group-title="IND | RELIGIOUS", IND-regional: MOON_TV
-http://xtv.ooo:8080/T4S00515/820172/246204
-#EXTINF: -1 tvg-name="IND-regional: ORANGE_TV" group-title="IND | RELIGIOUS", IND-regional: ORANGE_TV
-http://xtv.ooo:8080/T4S00515/820172/246205
-#EXTINF: -1 tvg-id="polimertv.in" tvg-name="IND-regional: POLIMER" group-title="IND | RELIGIOUS", IND-regional: POLIMER
-http://xtv.ooo:8080/T4S00515/820172/246206
-#EXTINF: -1 tvg-name="IND-regional: POWER_VISION" group-title="IND | RELIGIOUS", IND-regional: POWER_VISION
-http://xtv.ooo:8080/T4S00515/820172/246207
-#EXTINF: -1 tvg-name="IND-regional: PUBLIC_MOVIES" group-title="IND | RELIGIOUS", IND-regional: PUBLIC_MOVIES
-http://xtv.ooo:8080/T4S00515/820172/246208
-#EXTINF: -1 tvg-name="IND-regional: PUBLIC_MUSIC" group-title="IND | RELIGIOUS", IND-regional: PUBLIC_MUSIC
-http://xtv.ooo:8080/T4S00515/820172/246209
-#EXTINF: -1 tvg-name="IND-regional: PUBLIC_TV" group-title="IND | RELIGIOUS", IND-regional: PUBLIC_TV
-http://xtv.ooo:8080/T4S00515/820172/246210
-#EXTINF: -1 tvg-name="IND-regional: R_TV" group-title="IND | RELIGIOUS", IND-regional: R_TV
-http://xtv.ooo:8080/T4S00515/820172/246211
-#EXTINF: -1 tvg-name="IND-regional: RM_RUJUMARGAM_TV" group-title="IND | RELIGIOUS", IND-regional: RM_RUJUMARGAM_TV
-http://xtv.ooo:8080/T4S00515/820172/246212
-#EXTINF: -1 tvg-id="sadhnanews.in" tvg-name="IND-regional: Sadhna_Prime_News" group-title="IND | RELIGIOUS", IND-regional: Sadhna_Prime_News
-http://xtv.ooo:8080/T4S00515/820172/246213
-#EXTINF: -1 tvg-name="IND-regional: SATHIYAM_TV" group-title="IND | RELIGIOUS", IND-regional: SATHIYAM_TV
-http://xtv.ooo:8080/T4S00515/820172/246214
-#EXTINF: -1 tvg-name="IND-regional: SHEMAROO_MARATHIBANA" group-title="IND | RELIGIOUS", IND-regional: SHEMAROO_MARATHIBANA
-http://xtv.ooo:8080/T4S00515/820172/246215
-#EXTINF: -1 tvg-id="srisankaratv.in" tvg-name="IND-regional: SRI_SANKARA" group-title="IND | RELIGIOUS", IND-regional: SRI_SANKARA
-http://xtv.ooo:8080/T4S00515/820172/246216
-#EXTINF: -1 tvg-name="IND-regional: Studio_One" group-title="IND | RELIGIOUS", IND-regional: Studio_One
-http://xtv.ooo:8080/T4S00515/820172/246217
-#EXTINF: -1 tvg-id="tnews.in" tvg-name="IND-regional: T_NEWS" group-title="IND | RELIGIOUS", IND-regional: T_NEWS
-http://xtv.ooo:8080/T4S00515/820172/246218
-#EXTINF: -1 tvg-name="IND-regional: TAMILAN_TELEVISION" group-title="IND | RELIGIOUS", IND-regional: TAMILAN_TELEVISION
-http://xtv.ooo:8080/T4S00515/820172/246219
-#EXTINF: -1 tvg-id="tv5.in" tvg-name="IND-regional: TV_5" group-title="IND | RELIGIOUS", IND-regional: TV_5
-http://xtv.ooo:8080/T4S00515/820172/246220
-#EXTINF: -1 tvg-id="tv5kannada.in" tvg-name="IND-regional: TV5_KANNADA" group-title="IND | RELIGIOUS", IND-regional: TV5_KANNADA
-http://xtv.ooo:8080/T4S00515/820172/246221
-#EXTINF: -1 tvg-name="IND-regional: 24News" group-title="IND | RELIGIOUS", IND-regional: 24News
-http://xtv.ooo:8080/T4S00515/820172/246222
-#EXTINF: -1 tvg-id="jeevantv.in" tvg-name="IND-regional: Jeevan" group-title="IND | RELIGIOUS", IND-regional: Jeevan
-http://xtv.ooo:8080/T4S00515/820172/246223
-#EXTINF: -1 tvg-id="jaihindtv.in" tvg-name="IND-regional: Jaihind" group-title="IND | RELIGIOUS", IND-regional: Jaihind
-http://xtv.ooo:8080/T4S00515/820172/246224
-#EXTINF: -1 tvg-id="amritatv.in" tvg-name="IND-regional: AMrita" group-title="IND | RELIGIOUS", IND-regional: AMrita
-http://xtv.ooo:8080/T4S00515/820172/246225
-#EXTINF: -1 tvg-name="IND-regional: Survana_news" group-title="IND | RELIGIOUS", IND-regional: Survana_news
-http://xtv.ooo:8080/T4S00515/820172/246226
-#EXTINF: -1 tvg-id="wetv.in" tvg-name="IND-regional: WE" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kairali_in_we.png" group-title="IND | RELIGIOUS", IND-regional: WE
-http://xtv.ooo:8080/T4S00515/820172/246227
-#EXTINF: -1 tvg-name="IND-regional: WIN_TV" tvg-logo="http://openboxv8s.com/india/win_tv_in.jpg" group-title="IND | RELIGIOUS", IND-regional: WIN_TV
-http://xtv.ooo:8080/T4S00515/820172/246228
-#EXTINF: -1 tvg-name="IND-regional: YONETV" group-title="IND | RELIGIOUS", IND-regional: YONETV
-http://xtv.ooo:8080/T4S00515/820172/246229
-#EXTINF: -1 tvg-id="mazhavilmanorama.in" tvg-name="IND-regional: Mazhavil Manorama" tvg-logo="http://openboxv8s.com/india/mazhavil_manorama.jpg" group-title="IND | RELIGIOUS", IND-regional: Mazhavil Manorama
-http://xtv.ooo:8080/T4S00515/820172/246230
+
 #EXTINF: -1 tvg-name="Dobaaraa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0Ayozn8O69UEjDvXnT5noIgUJp.jpg" group-title="WEB MOVIES", Dobaaraa (2022)
 http://xtv.ooo:8080/movie/T4S00515/820172/268140.mkv
 #EXTINF: -1 tvg-name="377 Ab Normal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ICJS0DIk4dPVeB3p63N4G0s0P.jpg" group-title="WEB MOVIES", 377 Ab Normal (2019)
@@ -2825,6 +2687,7 @@ http://xtv.ooo:8080/series/T4S00515/820172/236135.mkv
 http://xtv.ooo:8080/series/T4S00515/820172/245113.mkv
 #EXTINF: -1 tvg-name="Nirmal Pathak Ki Ghar Wapsi (2022) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws7pdN7oerCmY7QSbnfyqxWmV8t.jpg" group-title="SONY LIV", Nirmal Pathak Ki Ghar Wapsi (2022) S01 E01
 http://xtv.ooo:8080/series/T4S00515/820172/247595.mkv
+
 #EXTINF: -1 tvg-name="Crime Patrol 2.0 (2022)  S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz9PzQ1bvravunDfXvbXLYuL9e8.jpg" group-title="SONY LIV", Crime Patrol 2.0 (2022)  S01 E01
 http://xtv.ooo:8080/series/T4S00515/820172/250789.mkv
 #EXTINF: -1 tvg-name="Crime Patrol 2.0 (2022)  S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz9PzQ1bvravunDfXvbXLYuL9e8.jpg" group-title="SONY LIV", Crime Patrol 2.0 (2022)  S01 E02

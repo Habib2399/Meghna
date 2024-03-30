@@ -208,7 +208,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="KOLKATA", Sony Aath
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-aath-live
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="KOLKATA", Jalsha Movies
-http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
+http://103.99.249.139/jalshamovies/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="KOLKATA", Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png" group-title="KOLKATA", Enter 10 Bangla
@@ -303,7 +303,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture
 https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
-https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
+http://103.99.249.139/andpictures/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
@@ -365,7 +365,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg" group-title="INDIAN", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/7162be53-7a4e-4d6b-81ec-7d6dd7b883f9:TPE2/master.m3u8
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/ec6689ef-923e-4c7e-ac2b-3c975eddabbe:SIN/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
 http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd

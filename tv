@@ -198,7 +198,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png" group-title="KOLKATA", Star Jalsha HD
 https://bongohub.pw/api/bdsajib/hoicoi.m3u8?ac=1406
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
-https://edge4.bioscopelive.com/hls/anonymous/eoEBiv5_a5oSS0FDXznTRQ/1711725726/live3-colors-bangla.m3u8
+http://startv365.com:80/live/9794783213/6955630461/400248343.ts
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://test.bongodrive.pw/test.php?ac=colors-bangla-cinema
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla

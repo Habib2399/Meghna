@@ -2109,6 +2109,8 @@ http://xtv.ooo:8080/T4S00515/820172/206291
 http://xtv.ooo:8080/T4S00515/820172/206292
 #EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" group-title="INDIAN | DOCUMENTARY", IND: History_18_Hindi
 http://xtv.ooo:8080/T4S00515/820172/206294
+#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" group-title="INDIAN | DOCUMENTARY", Travel Tv Live
+https://is.gd/7QZxid.m3u8 
 #EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY", IN: History TV 18 FHD
 http://xtv.ooo:8080/T4S00515/820172/206295
 #EXTINF: -1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" group-title="INDIAN | DOCUMENTARY", IND: Epic

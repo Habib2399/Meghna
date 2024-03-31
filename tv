@@ -1784,74 +1784,7 @@ http://xtv.ooo:8080/T4S00515/820172/2
 #EXTINF: -1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" group-title=" ISLAMIC", ARY QTV
 http://xtv.ooo:8080/T4S00515/820172/3
 
-#EXTINF: -1 tvg-name="***IND: DRAMA (4K ULTRA HD)***" group-title="INDIAN | 4K ULTRA HD", ***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080/T4S00515/820172/109946
-#EXTINF: -1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="INDIAN | 4K ULTRA HD", Colors (4K)
-http://xtv.ooo:8080/T4S00515/820172/109947
-#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://openboxv8s.com/india/set_asia.jpg" group-title="INDIAN | 4K ULTRA HD", SONY SET (4K)
-http://xtv.ooo:8080/T4S00515/820172/109948
-#EXTINF: -1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star Plus (4K)
-http://xtv.ooo:8080/T4S00515/820172/109949
-#EXTINF: -1 tvg-name="ZEE TV (4K)" tvg-logo="http://openboxv8s.com/india/zee_tv.jpg" group-title="INDIAN | 4K ULTRA HD", ZEE TV (4K)
-http://xtv.ooo:8080/T4S00515/820172/109950
-#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN | 4K ULTRA HD", STAR BHARAT (4K)
-http://xtv.ooo:8080/T4S00515/820172/109951
-#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="INDIAN | 4K ULTRA HD", &tv (4K)
-http://xtv.ooo:8080/T4S00515/820172/109952
-#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN | 4K ULTRA HD", SONY SAB (4K)
-http://xtv.ooo:8080/T4S00515/820172/109953
-#EXTINF: -1 tvg-name="***IND: MOVIES (4K ULTRA HD)***" group-title="INDIAN | 4K ULTRA HD", ***IND: MOVIES (4K ULTRA HD)***
-http://xtv.ooo:8080/T4S00515/820172/109954
-#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://openboxv8s.com/india/and_pictures_in.jpg" group-title="INDIAN | 4K ULTRA HD", &pictures (4K)
-http://xtv.ooo:8080/T4S00515/820172/109955
-#EXTINF: -1 tvg-id="utvhd.in" tvg-name="UTV (4K)" group-title="INDIAN | 4K ULTRA HD", UTV (4K)
-http://xtv.ooo:8080/T4S00515/820172/109956
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="MAX (4K)" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" group-title="INDIAN | 4K ULTRA HD", MAX (4K)
-http://xtv.ooo:8080/T4S00515/820172/109957
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | 4K ULTRA HD", ZEE CINEMA (4K)
-http://xtv.ooo:8080/T4S00515/820172/109958
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star GOLD (4K)
-http://xtv.ooo:8080/T4S00515/820172/109959
-#EXTINF: -1 tvg-name="Star Gold Select (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star Gold Select (4K)
-http://xtv.ooo:8080/T4S00515/820172/109960
-#EXTINF: -1 tvg-name="Movies_active (4K)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="INDIAN | 4K ULTRA HD", Movies_active (4K)
-http://xtv.ooo:8080/T4S00515/820172/109961
-#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://openboxv8s.com/india/and-flix-in.png" group-title="INDIAN | 4K ULTRA HD", & flix (4K)
-http://xtv.ooo:8080/T4S00515/820172/109962
-#EXTINF: -1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" group-title="INDIAN | 4K ULTRA HD", & Prive (4K)
-http://xtv.ooo:8080/T4S00515/820172/109963
-#EXTINF: -1 tvg-name="& Xplorer (4K)" group-title="INDIAN | 4K ULTRA HD", & Xplorer (4K)
-http://xtv.ooo:8080/T4S00515/820172/109964
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://tvwiz.in/images/channel-images/MN+%20HD.v2.w132.png" group-title="INDIAN | 4K ULTRA HD", MN+ (4K)
-http://xtv.ooo:8080/T4S00515/820172/109965
-#EXTINF: -1 tvg-name="SONY PIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_pix_in.png" group-title="INDIAN | 4K ULTRA HD", SONY PIX (4K)
-http://xtv.ooo:8080/T4S00515/820172/109966
-#EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://openboxv8s.com/india/movies_now.png" group-title="INDIAN | 4K ULTRA HD", Movies Now (4K)
-http://xtv.ooo:8080/T4S00515/820172/109968
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR MOVIES (4K)
-http://xtv.ooo:8080/T4S00515/820172/109970
-#EXTINF: -1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://openboxv8s.com/india/star_world_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD (4K)
-http://xtv.ooo:8080/T4S00515/820172/109971
-#EXTINF: -1 tvg-id="starpremierehd.in" tvg-name="STAR WORLD PREM (4K)" tvg-logo="http://openboxv8s.com/india/star_world_premiere_hd_in.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD PREM (4K)
-http://xtv.ooo:8080/T4S00515/820172/109972
-#EXTINF: -1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://openboxv8s.com/india/discovery-channel-east-us.png" group-title="INDIAN | 4K ULTRA HD", DISCOVERY (4K)
-http://xtv.ooo:8080/T4S00515/820172/109974
-#EXTINF: -1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET (4K)" tvg-logo="http://openboxv8s.com/india/animal-planet-us.png" group-title="INDIAN | 4K ULTRA HD", ANIMAL PLANET (4K)
-http://xtv.ooo:8080/T4S00515/820172/109975
-#EXTINF: -1 tvg-name="NAT Geo Wild (4K)*" tvg-logo="http://openboxv8s.com/india/nat_geo_wild_asia.jpg" group-title="INDIAN | 4K ULTRA HD", NAT Geo Wild (4K)*
-http://xtv.ooo:8080/T4S00515/820172/109976
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="National GEO (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INDIAN | 4K ULTRA HD", National GEO (4K)
-http://xtv.ooo:8080/T4S00515/820172/109977
-#EXTINF: -1 tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD", Sony BBC Ear (4K)
-http://xtv.ooo:8080/T4S00515/820172/109978
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="FOX Life (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="INDIAN | 4K ULTRA HD", FOX Life (4K)
-http://xtv.ooo:8080/T4S00515/820172/109980
-#EXTINF: -1 tvg-name="IN: COLORS CINEPLEX (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | 4K ULTRA HD", IN: COLORS CINEPLEX (4K)
-http://xtv.ooo:8080/T4S00515/820172/206315
-#EXTINF: -1 tvg-name="IND: Sony MAX 2 (4K)" group-title="INDIAN | 4K ULTRA HD", IND: Sony MAX 2 (4K)
-http://xtv.ooo:8080/T4S00515/820172/206317
-#EXTINF: -1 tvg-id="jalshamovieshd.in" tvg-name="IN: Jalsha Movies (4K)*" group-title="INDIAN | 4K ULTRA HD", IN: Jalsha Movies (4K)*
-http://xtv.ooo:8080/T4S00515/820172/206320
+
 #EXTINF: -1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC", IN | Zoom TV
 http://xtv.ooo:8080/T4S00515/820172/66190
 #EXTINF: -1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC", IN | 9xm

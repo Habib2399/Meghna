@@ -309,7 +309,7 @@ https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
 http://103.99.249.139/andpictures/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
@@ -317,7 +317,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96186
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
-https://test.bongodrive.pw/test.php?ac=sony-max-sd
+http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
 https://tv5.hoichoi24.com/1607/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2

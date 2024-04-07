@@ -323,7 +323,7 @@ https://tv5.hoichoi24.com/1607/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://bongohub.pw/api/bdsajib/bioscopebd.m3u8?id=max-2
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
-https://tv5.hoichoi24.com/1703/tracks-v1a1/mono.m3u8
+http://170.254.18.107/SONY/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors

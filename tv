@@ -200,7 +200,7 @@ http://tv.cloudcdn.me/live.ts?channelId=120&uid=9592&deviceMac=00:1A:79:82:85:F0
 https://is.gd/wuphY1.m3u8 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
 https://is.gd/SQVylE.m3u8   
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla Cinama
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
 https://tv5.hoichoi24.com/1404/index.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
  
@@ -252,7 +252,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/206054.ts
 http://xtv.ooo:8080/live/T4S00515/820172/206049.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo flimi Gane
+#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmy Gane
 https://is.gd/WOeLN9.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8

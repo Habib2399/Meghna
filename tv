@@ -604,7 +604,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MclQoge.png" group-title="SPORTS", SonyLIV
 http://xtv.ooo:8080/live/T4S00515/820172/347336.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PSrgydV.jpg" group-title="SPORTS", Willow HD
-http://xtv.ooo:8080/live/T4S00515/820172/347333.ts
+https://mhdplay.com/crichd/stream.php?id=willowusa&e=.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PSrgydV.jpg" group-title="SPORTS", WILLOW CRICKET XTRA
 http://xtv.ooo:8080/live/T4S00515/820172/347334.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TjgTOg0.png" group-title="SPORTS", A Sports

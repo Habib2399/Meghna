@@ -405,7 +405,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HMXJJGAPqXLRHW_Uob8ZnMHOoGpg6DVYaCDTYvNRYrKMAye593D-zoCM&s=10" group-title="ENGLISH", Holloywood HD
+http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix
 http://xtv.ooo:8080/live/T4S00515/820172/66224.ts
 #EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv 

@@ -405,6 +405,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ENGLISH", AXN
+http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo=https://is.gd/3xyrMz.jpg"" group-title="ENGLISH", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HMXJJGAPqXLRHW_Uob8ZnMHOoGpg6DVYaCDTYvNRYrKMAye593D-zoCM&s=10" group-title="ENGLISH", Hollywood HD

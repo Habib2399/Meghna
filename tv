@@ -213,7 +213,7 @@ http://startv365.com:80/live/9794783213/6955630461/187249.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="KOLKATA", Jalsha Movies
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/57877.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="KOLKATA", Zee Bangla Cinema
-http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55213.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png" group-title="KOLKATA", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema

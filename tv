@@ -312,7 +312,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture
 https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="INDIAN", & Picture HD
-http://103.99.249.139/andpictures/index.m3u8
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1964.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="INDIAN", & Flix HD
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817111.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab

@@ -330,7 +330,7 @@ http://sonyiptv.net:8080/live/hamayon123/abc123/276653.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
-http://xtv.ooo:8080/6199216/619002/104192
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55262.ts 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey

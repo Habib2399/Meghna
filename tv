@@ -274,7 +274,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/66709.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", music 17
 http://xtv.ooo:8080/live/T4S00515/820172/270518.ts
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India

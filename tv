@@ -2,9 +2,12 @@
 
 
 #EXTINF: -1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 02 QURAN MAJEED TALAWAT 24/7
-http://xtv.ooo:8080/live/223322/223322/251593.m3u8
+http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697043&extension=ts
 #EXTINF: -1 tvg-name="03 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 03 QURAN MAJEED TALAWAT 24/7
 http://xtv.ooo:8080/live/223322/223322/251594.m3u8
+#EXTINF: -1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 02 QURAN MAJEED TALAWAT 24/7
+http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697043&extension=ts
+http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697047&extension=ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ2GrPv9/images.jpg" group-title="ISLAMIC", Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF: -1 tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV

@@ -332,7 +332,7 @@ http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=a55a86199698694a4414aed7026bb423
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
 http://humsab.xyz/IN_SU/mpegts?token=85ce02bc76e43500e19689c801dd7e7a
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
-http://sonyiptv.net:8080/live/hamayon123/abc123/276653.ts
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/28823.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal

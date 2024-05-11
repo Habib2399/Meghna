@@ -206,15 +206,16 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png" group-title="KOLKATA", Zee Bangla
- http://xtv.ooo:8080/live/223322/223322/245893.ts
+http://xtv.ooo:8080/live/223322/223322/245893.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F0dmFko.jpg" group-title="KOLKATA", Zee cinama
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49963.ts
 #EXTINF: -1 tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA", Star Jalsha HD
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49964.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
-http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts   
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-https://tv5.hoichoi24.com/1404/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla 
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
+
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
  
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla

@@ -389,7 +389,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg" group-title="INDIAN", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/ad0cbf11-c9b5-491b-b591-57f124d2a96f:SIN/master.m3u8
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
 http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd
@@ -399,7 +399,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/104201.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
-http://xtv.ooo:8080/live/T4S00515/820172/104190.ts
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
 http://xtv.ooo:8080/live/7082785282/90643795158/66184.m3u8
 #EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK

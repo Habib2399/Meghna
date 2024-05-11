@@ -211,10 +211,10 @@ http://xtv.ooo:8080/live/223322/223322/245893.ts
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49963.ts
 #EXTINF: -1 tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA", Star Jalsha HD
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/49964.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla 
-http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/57882.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
  
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla

@@ -29,6 +29,11 @@ http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="ISLAMIC", Makka Live
 https://edge.taghtia.com/sa/7.m3u8
+#EXTINF: -1 tvg-name="MADNI TV" group-title=" ISLAMIC", MADNI TV
+http://xtv.ooo:8080/T4S00515/820172/2
+#EXTINF: -1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" group-title=" ISLAMIC", ARY QTV
+http://xtv.ooo:8080/T4S00515/820172/3
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
 https://bongohub.pw/bioscope.php?cc=btv-hd
@@ -882,12 +887,6 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MihH9i8.png" group-title="FM REDIO", Radio Mahananda
 https://radiomahanandafm.radioca.st/rm.mp3
-
-
-#EXTINF: -1 tvg-name="MADNI TV" group-title=" ISLAMIC", MADNI TV
-http://xtv.ooo:8080/T4S00515/820172/2
-#EXTINF: -1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" group-title=" ISLAMIC", ARY QTV
-http://xtv.ooo:8080/T4S00515/820172/3
 
 
 #EXTINF: -1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC", IN | Zoom TV

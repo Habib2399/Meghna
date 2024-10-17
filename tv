@@ -1,5 +1,1460 @@
+#EXTM3U
+ 
 
-#EXTM3U 
+#EXTINF:-1 group-title="الاســلام" tvg-logo="https://i.postimg.cc/1tKGR5gv/image.jpg" ,peace tv Bangla HD
+http://164.215.98.132:2082/8649G54859/8649G54859/39652
+#EXTINF:-1 group-title="الاســلام" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s88-c-k-c0x00ffffff-no-rj" ,القرآن الكريم HD
+http://164.215.98.132:2082/8649G54859/8649G54859/39652
+#EXTINF:-1 group-title="الاســلام" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن- العفاسي
+http://164.215.98.132:2082/8649G54859/8649G54859/4868
+#EXTINF:-1 group-title="الاســلام" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن- ماهر المعيقلي
+http://164.215.98.132:2082/8649G54859/8649G54859/7217
+#EXTINF:-1 group-title="الاســلام" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن تجويد- عبد الباسط
+http://164.215.98.132:2082/8649G54859/8649G54859/71089
+#EXTINF:-1 group-title="الاســلام" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن ترتيل- محمد صديق المنشاوي
+http://164.215.98.132:2082/8649G54859/8649G54859/71094
+#EXTINF:-1 group-title="الاســلام" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن كامل- بيشه وا قادر
+http://164.215.98.132:2082/8649G54859/8649G54859/71444
 
-#EXTINF: -1 tvg-name="02 QURAN MAJEED TALAWAT 24/7" tvg-logo="https://darulfikrlahore.com/wp-content/uploads/2019/09/Quran-Alif-16.png" group-title=" ISLAMIC", 02 QURAN MAJEED TALAWAT 24/7
-http://line.rs4ott.com:80/play/live.php?mac=00:1A:79:2c:c8:b3&stream=697043&extension=ts
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
+https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/9788.ts
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
+https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/V0R3PoR.png" group-title="BANGLADESHI", Apon Tv
+http://mag.trexlive.me/Michael88/Michael88/225782
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IbzmQq4.jpg" group-title="BANGLADESHI", AR Tv
+https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JF3uGAh.png" group-title="BANGLADESHI", Alfa Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/chunks.m3u8?
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Ks7J5dK/images-17.jpg" group-title="BANGLADESHI", Amar Bangla
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
+https://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
+http://103.230.105.252:1935/live/btv/manifest.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
+http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="BANGLADESHI", Bangla Tv Europe
+http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/RbB6Lt4/images-23.jpg" group-title="BANGLADESHI", BISWA BANGLA TV
+https://app.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJyLT5WB/logo-transparent.png" group-title="BANGLADESHI", B24C
+https://livess.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Bongo Drama
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Bongo Movies
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8nRyyAu.png" group-title="BANGLADESHI", Sangsad Tv
+http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
+https://starshare.live:443/live/3569087360/6542246996/426.ts
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
+http://xtv.ooo:8080/live/majid2409/4702020/245946.ts
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
+http://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESHI", Channel 9
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
+https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
+#EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI", Cumilla Tv
+http://103.149.142.133/0.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zRN30eE.jpg" group-title="BANGLADESHI", Channel 52
+http://208.86.19.13:81/503.stream/index.m3u8?
+#EXTINF: -1 tvg-logo="https://i.ibb.co/QbPF5s2/images-24.jpg" group-title="BANGLADESHI", CAN BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/canbanglatv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png" group-title="BANGLADESHI", CHANNEL EUROPE
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2351.ts
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2349.ts
+#EXTINF: -1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESHI", Deshi Tv
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Deepto TV
+http://xtv.ooo:8080/live/majid2409/4702020/245927.ts
+#EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
+https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ag0z5T3.jpg" group-title="BANGLADESHI", FBTV
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gtv
+http://172.20.21.22/live/skyfeed1006/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="BANGLADESHI", Gaan Bangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", Global Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="BANGLADESHI", Green Tv
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
+#EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CyNx0Zh.png" group-title="BANGLADESHI", Jatv
+https://jatv.sonarbanglatv.com/jatv/jatv/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lL2Iyx9.jpg" group-title="BANGLADESHI", Jagoroni Tv
+https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
+https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit_Fc4EgF4QZrY6DuZBQHUM_xCv3MR5ghD5KN-Cqq_wD6VGhK5gqwTxM&s=10" group-title="BANGLADESHI", JagoNews24
+https://app.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
+https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
+https://app.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
+https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", Nexus Tv
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", The Channel Tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9PXSW7a.jpg" group-title="BANGLADESHI", NAN TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png" group-title="BANGLADESHI", NRB HD Tv
+https://app.jagobd.com.bd/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg" group-title="BANGLADESHI", Ntv Europe
+https://global.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/0QR8v4jC/NOBANNOtv-10-Copy-1024x402-1.png" group-title="BANGLADESHI", Nobanno TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
+http://xtv.ooo:8080/live/majid2409/4702020/245920.ts
+#EXTINF: -1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="BANGLADESHI", Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TizGvtb.png" group-title="BANGLADESHI", Millennium Tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="BANGLADESHI", Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somay News
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2367.ts
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8?
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S uk
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
+https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Toffee Movies
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
+https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qKf0Ih3.png" group-title="BANGLADESHI", TV ONE
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AnUlFWN.jpg" group-title="BANGLADESHI", Times 24
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/yRS012W/images-19.jpg" group-title="BANGLADESHI", Time Television
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png" group-title="BANGLADESHI", IOV TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Nbw3bKO.png" group-title="BANGLADESHI", Probashi Tv
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
+https://global.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yldyrvA.jpg" group-title="KOLKATA", Amar Bangla
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NMJqG2PC/abtv-logo.png" group-title="KOLKATA", AB TV
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="KOLKATA", Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", ABP Ananda
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=fo98ioc0&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
+http://172.20.21.22/live/skyfeed1017/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Colors Bangla Cinama
+https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla-cinema/index.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QaTnRJq.png" group-title="KOLKATA", R Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ea56bdf9-cd83-4fbf-ae9a-db1c383ba08f/2.m3u8?ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98834_eng=98800-video=863200.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png" group-title="KOLKATA", Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/F0dmFko.jpg" group-title="KOLKATA", Zee Bangla cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF: -1 tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA", Star Jalsha HD
+http://172.20.21.22/live/funtime112/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", TV9
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=he4be5di&e=.m3u8|Referer=https://entezeetv.fun/bdcast/
+#EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rFRWH9gQ/image.jpg" group-title="KOLKATA", DESI MUSIC
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla
+http://opplextv.cyou:8080/live/4545/4545/245906.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="KOLKATA", Sony Aath
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="KOLKATA", Star Jalsha Movies
+http://103.190.85.38/hls/zeemovie.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="KOLKATA", Zee Bangla Cinema
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55213.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png" group-title="KOLKATA", Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema
+http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
+http://195.26.87.217/live.ts?channelId=113&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" group-title="KOLKATA", Akash 8
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100643
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T1cYFfqg/image.jpg" group-title="KOLKATA", Tv9
+https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/afbca502-56e1-42a8-b4c4-63ebbf0afb76/2.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
+https://sristi1.livebox.co.in/sristihls/live.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=136&e=.m3u8|User-Agent=test69
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
+http://tinyurl.com/Rabindrasang
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Eten TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
+http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239155.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9x Music
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jawla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV
+http://xtv.ooo:8080/live/06865926/38568386/206054.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV HD
+http://xtv.ooo:8080/live/06865926/38568386/206049.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wjwzXVpV/image.png" group-title="MUSIC", Zee Etc
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
+http://xtv.ooo:8080/live/global/global/346356.ts
+#EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
+https://is.gd/WOeLN9.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
+http://xtv.ooo:8080/live/global/global/346357.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
+http://global.ncare.live/live-orgin/v2beattv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
+http://global.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", B4U Hits
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/622a3500-0aaf-4c82-9ba1-f4ecf731dc79/1.m3u8
+#EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" , Music 24/7 1
+http://ekdilhai.pro/TSER247/index.m3u8?token=0cbea10cc47827e277030f670d7d2e38
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,Music 24/7 2
+http://ekdilhai.pro/zp1247/index.m3u8?token=ffcad025fb93241063a6b781e1fb663c
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,Music 24/7 3
+http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d96
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,24/7 MUSIC 4
+http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
+http://xtv.ooo:8080/927382370/837382809/270518
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 09
+http://xtv.ooo:8080/927382370/837382809/270510
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 08
+http://xtv.ooo:8080/927382370/837382809/270509
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 07
+http://xtv.ooo:8080/927382370/837382809/270508
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 10
+http://xtv.ooo:8080/927382370/837382809/270511
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 11
+http://xtv.ooo:8080/927382370/837382809/270512
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 12
+http://xtv.ooo:8080/927382370/837382809/270513
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 15
+http://xtv.ooo:8080/927382370/837382809/270516
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 14
+http://xtv.ooo:8080/927382370/837382809/270515
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 13
+http://xtv.ooo:8080/927382370/837382809/270514
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 16
+http://xtv.ooo:8080/927382370/837382809/270517
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 18
+http://xtv.ooo:8080/927382370/837382809/362865
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 19
+http://xtv.ooo:8080/927382370/837382809/362866
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 20
+http://xtv.ooo:8080/927382370/837382809/362867
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 21
+http://xtv.ooo:8080/927382370/837382809/362868
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 03
+http://xtv.ooo:8080/927382370/837382809/270504
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 02
+http://xtv.ooo:8080/927382370/837382809/270503
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,IN: 24/7 MUSIC 01
+http://xtv.ooo:8080/927382370/837382809/219498
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 06
+http://xtv.ooo:8080/927382370/837382809/270507
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 05
+http://xtv.ooo:8080/927382370/837382809/270506
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 04
+http://xtv.ooo:8080/927382370/837382809/270505
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
+http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/X7459Y8W/1128-bollywood-clasic.png" group-title="INDIAN", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg" group-title="INDIAN", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
+https://cdn2.pishow.tv/live/160/160_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dd8VLUN.jpg" group-title="INDIAN", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors
+http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
+http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MyfKDWw.png" group-title="INDIAN", Colors Cineplex HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/383.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=7852&deviceMac=00:1A:79:CC:56:3B
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
+http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=7852&deviceMac=00:1A:79:CC:56:3B
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", All Time Movies
+http://172.105.123.238:18002/play/a00i
+#EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
+http://xtv.ooo:8080/live/7082785282/90643795158/66184.m3u8
+#EXTINF: -1 tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
+http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
+#EXTINF: -1 tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
+http://xtv.ooo:8080/live/5143datqa/6156gafwq/112972.ts
+#EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
+http://172.105.123.238:18002/play/a01j
+#EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
+http://xtv.ooo:8080/live/global/global/112973.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold 2
+http://starshare.live:8080/live/Michelle123/Michelle123/157081.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
+http://xtv.ooo:8080/live/T4S00515/820172/221258.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2193.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png" group-title="INDIAN", Star Gold Romance
+http://bostv.one:8080/live/Hitesh123/Hitesh123/95902.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
+http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
+http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
+http://172.105.123.238:18002/play/a01q
+#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
+http://xtv.ooo:8080/live/387546/200900/221259.ts
+#EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FOgubQl.jpg" group-title="INDIAN", Sony Pal
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Fzv8Bx87/image.jpg" group-title="INDIAN", The movie club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Zee Tv
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100803
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Zee Tv HD
+http://170.254.18.107/ZEE/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg" group-title="INDIAN", Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv
+http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817112.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
+http://170.254.18.107/ZEE/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
+https://is.gd/N7vaq0.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg" group-title="INDIAN", Zee News
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4yhj7Tz5/Zee-Hindustan1.jpg" group-title="INDIAN", Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZYs328jF/Zee-Cinemalu.png" group-title="INDIAN", Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg" group-title="INDIAN", Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="INDIAN", Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg" group-title="INDIAN", Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png" group-title="INDIAN", Zee Tamil
+http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png" group-title="INDIAN", Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i1UkI3B.jpg" group-title="INDIAN", South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i1kI3B.jpg" group-title="INDIAN", RDC Movies
+https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/a74b0ae9-0ef1-404b-9c78-a332d5bbb279/1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", Wow movies
+http://cdn2.pishow.tv/live/140/master.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ENGLISH", AXN
+http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo=https://is.gd/3xyrMz.jpg"" group-title="ENGLISH", Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HMXJJGAPqXLRHW_Uob8ZnMHOoGpg6DVYaCDTYvNRYrKMAye593D-zoCM&s=10" group-title="ENGLISH", Hollywood HD
+http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="ENGLISH", & Flix HD
+http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_pix_hd
+#EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix/index.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies
+http://xtv.ooo:8080/live/T4S00515/820172/348059.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies HD
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies Select
+http://xtv.ooo:8080/live/T4S00515/820172/66315.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gtkiZQY.png" group-title="ENGLISH", HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bGASr7e.png" group-title="ENGLISH", HBO Family
+http://xtv.ooo:8080/live/T4S00515/820172/346570.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nXxPliC.png" group-title="ENGLISH", HBO Signature
+http://xtv.ooo:8080/live/T4S00515/820172/346571.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kmyHso0.png" group-title="ENGLISH", HBO Hits
+http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236920.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ALV5d53.png" group-title="ENGLISH", Movies Now
+https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now-hd/index.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uNWHQxu.png" group-title="ENGLISH", MN+
+https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Qyj4wsO.png" group-title="ENGLISH", Rock Action
+http://210.210.155.35/dr9445/h/h15/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/G6xBGv8.jpg" group-title="ENGLISH", Hungama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Qyj4wsO.png" group-title="ENGLISH", Rock Entertainment
+http://xtv.ooo:8080/6199216/619002/351026
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tUI0Upe.png" group-title="ENGLISH", BBC America
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0RmvxOZ.png" group-title="ENGLISH", Best Action
+http://64.31.40.14:14031/
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png" group-title="ENGLISH", MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1M0jHid.png" group-title="ENGLISH", Action Hollywood Movie
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="ENGLISH", History Channel
+http://xtv.ooo:8080/6199216/619002/206294
+#EXTINF: -1 tvg-logo="https://i.imgur.com/L5JDZ88.png" group-title="ENGLISH", BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg" group-title="ENGLISH", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/M5lptE4.png" group-title="ENGLISH", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RnWZ864.png" group-title="ENGLISH", KBS World
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+
+
+
+#EXTINF:-1 group-title="Documentary" ,AE: FashionTV
+http://xtv.ooo:8080/global/global/355013
+#EXTINF:-1 group-title="Documentary" ,AF: FashionTV
+http://xtv.ooo:8080/global/global/347499
+#EXTINF:-1 group-title="Documentary" ,BE: FashionTV
+http://xtv.ooo:8080/global/global/348339
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
+http://xtv.ooo:8080/global/global/245966
+#EXTINF:-1 group-title="Documentary" ,US: Nasa TV
+http://xtv.ooo:8080/global/global/346445
+#EXTINF:-1 group-title="Documentary" Discovery  Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
+http://xtv.ooo:8080/global/global/346431
+#EXTINF:-1 group-title="Documentary" ,US: Travel Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="Documentary" , Animel planet
+http://172.20.21.22/live/funtime1025/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
+http://xtv.ooo:8080/global/global/206292
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
+http://xtv.ooo:8080/global/global/206280
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
+http://xtv.ooo:8080/global/global/206280
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" , Travel XP Eng
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Documentary" ,IND: Discovery Science
+https://nowmetv.xyz/delta/discovery/api/Discovery_Science_Hindi.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
+https://jio.jiotv.link/api/app/live.php?id=146&e=.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
+http://xtv.ooo:8080/global/global/206285
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/global/global/206286
+#EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
+#EXTINF:-1 group-title="Documentary" , HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
+http://xtv.ooo:8080/global/global/363004
+#EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
+https://nowmetv.xyz/delta/discovery/api/Discovery_Hindi.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+
+https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/283_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
+https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LZPwHc2.png" group-title="CARTOON", Disney HD
+http://xtv.ooo:8080/6199216/619002/167551
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Nickelodeon
+http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xbQSPP3.png" group-title="CARTOON", Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF: -1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="CARTOON", Kids Cartoon
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
+https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network Hindi
+
+
+
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
+http://xtv.ooo:8080/global/global/109992
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
+http://xtv.ooo:8080/global/global/167580
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
+http://xtv.ooo:8080/global/global/167595
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , TNT
+http://14.128.12.54/cric/m3u8.php/bbtsp1.m3u8
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 2
+http://xtv.ooo:8080/global/global/355009
+#EXTINF:-1 group-title=SPORTS ,AE: StarzPlay Criclife 3
+http://xtv.ooo:8080/global/global/355010
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" ,IN | STAR SPORTS SELECT 2
+http://xtv.ooo:8080/global/global/167579
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
+http://xtv.ooo:8080/global/global/167578
+#EXTINF:-1 group-title=SPORTS ,IN | Willow Xtra
+http://xtv.ooo:8080/global/global/167582
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" ,IN: DD Sports
+http://xtv.ooo:8080/global/global/167588
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" tvg-id="skysportscricket.uk" ,UK: Sky Sports Cricket
+http://xtv.ooo:8080/global/global/167594
+#EXTINF:-1 group-title=SPORTS ,T20 WORLD CUP 01
+http://xtv.ooo:8080/global/global/219643
+#EXTINF:-1 group-title=SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501
+http://xtv.ooo:8080/global/global/167593
+#EXTINF:-1 group-title=SPORTS ,AFG: RTA SPORTS
+http://xtv.ooo:8080/global/global/167591
+#EXTINF:-1 group-title=SPORTS tvg-id="supersportfootball.za" ,Af | DSTV: Super Sports Football
+http://xtv.ooo:8080/global/global/238480
+#EXTINF:-1 group-title=SPORTS tvg-id="supersportcricket.za" ,Af | DSTV: Super Sports Cricket
+http://xtv.ooo:8080/global/global/238475
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" tvg-id="supersportblitz.za" ,Af | DSTV: Super Sports Blitz
+http://xtv.ooo:8080/global/global/238487
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" tvg-id="supersportgolf.za" ,Af | DSTV: Super Sports Golf
+http://xtv.ooo:8080/global/global/238488
+#EXTINF:-1 group-title=SPORTS tvg-id="supersportlaliga.za" ,Af | DSTV: Super Sports La Liga
+http://xtv.ooo:8080/global/global/238479
+#EXTINF:-1 group-title=SPORTS tvg-id="supersportgrandstand.za" ,Af | DSTV: Super Sports Grand Stand
+http://xtv.ooo:8080/global/global/238476
+#EXTINF:-1 group-title=SPORTS tvg-id="supersportmotorsport.za" ,Af | DSTV: Super Sports MotorSports
+http://xtv.ooo:8080/global/global/238490
+#EXTINF:-1 group-title=SPORTS tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" tvg-id="supersportpsl.za" ,DSTV: Super Sports PSL
+http://xtv.ooo:8080/global/global/238477
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3137.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3136.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" ,CRI: WILLOW CRICKET HD #1
+http://14.128.12.54/cric/m3u8.php/willowusa.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46" ,AU: FOX SPORTS 501 #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236869
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" ,CRI: Astro Cricket HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236852
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport-cms-prod.azureedge.net/media/t2knfhmd/cricket-8.png?width=200" ,CRI: SUPERSPORTS CRICKET HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236854
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/10/asportshd001.jpg" ,CRI: A SPORTS ARY HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/236842
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png" ,CRI: GEO SUPER HD
+http://xtv.ooo:8080/live/global/global/167568.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" ,CRI: PTV SPORTS HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
+http://xtv.ooo:8080/live/global/global/167587.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" ,CRI: SONY TEN 1 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277343
+#EXTINF:-1 group-title="SPORTS" ,CRI: SONY Ten 2 HD.
+http://xtv.ooo:8080/live/global/global/109984.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" ,CRI: SONY TEN 3 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277345
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" ,CRI: STAR SPORTS 2 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237044
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" ,CRI: STAR SPORTS HINDI HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237046
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" ,CRI: STAR SPORTS 1 TAMIL HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/250129
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" ,CRI: SONY ESPN HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237052
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" ,SONY Ten 2 HD #1
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237213
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" ,DSTV : SUPERSPORTS PREMIER LEAGUE HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237218
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" ,US: SPORTS XTRA
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237258
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,BEIN SPORT ENGLISH 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" ,BEIN SPORT ENGLISH 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://j.top4top.io/p_25633k15q1.png" ,|AR| BEIN SPORT 3 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237224
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,|AR| BEIN SPORT  2 HD
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/Bein%20sports%20hd%201.png" ,|AR| BEIN SPORT  1 HD
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : AD SPORT 1 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : Redbull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : DUBAI SPORT 1 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299875
+http://xtv.ooo:8080/live/global/global/109988.ts
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 2 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294857
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 1 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294856
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 3 SD
+https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd?|drmScheme=clearkey&drmLicense=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 4 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294859
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 5 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294860
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 1 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294861
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 2 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294862
+#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 3 SD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294863
+#EXTINF:-1 group-title="SPORTS" ,SSC 1 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294865
+#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 3 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294874
+#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 2 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294875
+#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 1 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294876
+#EXTINF:-1 group-title="SPORTS" ,SSC 5 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294877
+#EXTINF:-1 group-title="SPORTS" ,SSC 4 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294878
+#EXTINF:-1 group-title="SPORTS" ,SSC 3 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294879
+#EXTINF:-1 group-title="SPORTS" ,SSC 2 HD
+http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294880
+
+
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Beani Kids
+https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="CARTOON", TOON GOOGLE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DZtvMpgS/download-10.png" group-title="CARTOON", Pop Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick
+https://sadman0.000webhostapp.com/o/hoichoi.m3u8?id=1305
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick Hindi
+http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="CARTOON", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
+https://api.bongohub.pw/api/bio.php?ac=sonic
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bqz9EXY.png" group-title="CARTOON", WOW Kids
+http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vbi9liD.jpg" group-title="CARTOON", WOW Comedy
+http://xtv.ooo:8080/live/T4S00515/820172/311774.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5AygzFq.jpg" group-title="CARTOON", WOW Kids Action
+http://xtv.ooo:8080/live/T4S00515/820172/314753.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NDpwAkN.png" group-title="CARTOON", Sony Yay
+https://bongohub.pw/bioscope.php?cc=sony-yay-live
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NDpwAkN.png" group-title="CARTOON", Sony Yay Hindi
+http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been
+https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg" group-title="CARTOON", Motu Patlu
+http://xtv.ooo:8080/live/anus1428/111000111/307079.ts
+#EXTINF: -1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="CARTOON", KIDS FLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry
+https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Hungama tv
+http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
+http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/s0I9JCk.png" group-title="CARTOON", Doraemon
+http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+
+
+FM RADIO
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Quran
+https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AfY8NAf.jpg" group-title="FM REDIO", Bangladesh Betar
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/16uHVGr.png" group-title="FM REDIO", Redio Shadin
+http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NSzeePe.png" group-title="FM REDIO", Redio Today
+http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oWpQCYD.png" group-title="FM REDIO", Redio Ekattor
+http://192.144.82.200:9302/;stream/1;
+#EXTINF: -1 tvg-logo="https://i.imgur.com/sUtIV0g.png" group-title="FM REDIO", Redio Sarabela
+http://103.4.145.50:8000/stream/1/
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gi3zr40.png" group-title="FM REDIO", Redio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rmd6v7M.png" group-title="FM REDIO", Sayaji FM
+https://sayajifm.radioca.st/stream/;?1707488287650
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ca6gh7i.png" group-title="FM REDIO", Radio BongOnet
+https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d09PXR5.jpg" group-title="FM REDIO", Radio Retro Bollywood
+https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
+https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
+
+
+
+
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,01 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/341039
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,02 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/341040
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,03 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/341041
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,04 BLOCKBUSTER COMEDY
+http://xtv.ooo:8080/927382370/837382809/341042
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,05 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/341043
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,06 BLOCKBUSTER CLASSIC
+http://xtv.ooo:8080/927382370/837382809/341329
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,07 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/362983
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,08 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/362984
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,09 BLOCKBUSTER
+http://xtv.ooo:8080/927382370/837382809/362985
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,01 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250346
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,02 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250347
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,03 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250348
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,04 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250349
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,05 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250350
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,06 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250351
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,07 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250352
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,08 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250353
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,09 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250354
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,10 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250355
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,11 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250356
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,12 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250357
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,13 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250358
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,14 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/250359
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,15 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251340
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,16 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251341
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,17 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251342
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,18 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251343
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,19 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251344
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,20 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251345
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,21 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251346
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,22 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251347
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,23 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251348
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,24 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251349
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,25 ***
+http://xtv.ooo:8080/927382370/837382809/251350
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,26 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251351
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,27 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251352
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,28 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251353
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,29 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251354
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,30 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251561
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,31 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251562
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,32 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251563
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,33 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251564
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,34 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251565
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,35 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251566
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,36 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251567
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,37 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251568
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,38 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251569
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,39 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251570
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,40 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251571
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,41 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251572
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,42 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251573
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,43 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251574
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,44 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251575
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,45 ***
+http://xtv.ooo:8080/927382370/837382809/251576
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,46 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251577
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,47 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251578
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,48 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251579
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,49 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251580
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,50 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251581
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,51 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251582
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,52 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251583
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,53 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251584
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,54 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251585
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,55 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251586
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,56 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251587
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,57 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251588
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,58 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251589
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,59 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251590
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,60 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/251591
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,61 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362976
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,62 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362977
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,63 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362978
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,64 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362979
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,65 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362980
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,66 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362981
+#EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,67 MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362982
+#EXTINF:-1 group-title="24/7 BOLLYWOOD OLD MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,01 BOLLYWOOD OLD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/341326
+#EXTINF:-1 group-title="24/7 BOLLYWOOD OLD MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,02 BOLLYWOOD OLD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/341327
+#EXTINF:-1 group-title="24/7 BOLLYWOOD OLD MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" ,03 BOLLYWOOD OLD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/341328
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,01 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/253596
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,02 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/253597
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,03 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/253598
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,04 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263386
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,05 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263387
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,06 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263388
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,07 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263389
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,08 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263390
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,09 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263391
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,10 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263392
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,11 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263393
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,12 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263394
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,13 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263395
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,14 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/263396
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,15 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362986
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,16 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362987
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,17 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362988
+#EXTINF:-1 group-title="24/7 SOUTH INDIAN DUBBED MOVIES" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" ,18 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/362989
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 01
+http://xtv.ooo:8080/927382370/837382809/301492
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 02
+http://xtv.ooo:8080/927382370/837382809/301493
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 03
+http://xtv.ooo:8080/927382370/837382809/301494
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Telugu Movies 01
+http://xtv.ooo:8080/927382370/837382809/301496
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Tamil Movies 04
+http://xtv.ooo:8080/927382370/837382809/301495
+#EXTINF:-1 group-title="24/7 TAMIL,TELUGU,MALAYALAM" ,24/7: Malayalam Movies 01
+http://xtv.ooo:8080/927382370/837382809/301497
+
+
+
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,01 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/263421
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,02 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268020
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,03 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268021
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,04 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268022
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,05 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268023
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,06 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268024
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,07 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268025
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,08 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268026
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,09 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268027
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,10 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268028
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,11 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268029
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,12 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268030
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,13 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268031
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,14 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268032
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,15 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268033
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,16 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268034
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,17 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268035
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,18 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268036
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,19 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268037
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,20 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268038
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,21 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268039
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,22 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268040
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,23 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268041
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,24 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268042
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,25 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268043
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,26 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268044
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,27 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268045
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,28 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268046
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,29 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268047
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,30 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268048
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,31 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268049
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,32 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268050
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,33 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268051
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,34 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268052
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,35 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268053
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,36 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268054
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,37 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268055
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,38 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268056
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,39 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/268057
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,40 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362990
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,41 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362991
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,42 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362992
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,43 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362993
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,44 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362994
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,45 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362995
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" ,46 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/927382370/837382809/362996
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,2023 HOLLYWOOD MOVIES 24/7 01
+http://xtv.ooo:8080/927382370/837382809/345767
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,2023 HOLLYWOOD MOVIES 24/7 02
+http://xtv.ooo:8080/927382370/837382809/345768
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,01 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345769
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,02 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345770
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,03 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345771
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,04 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345772
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,05 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345773
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,06 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345774
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,07 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345775
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,08 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345776
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,09 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345777
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,10 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345778
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,11 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345779
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,12 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345780
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,13 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345781
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,14 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345782
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,15 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345783
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,16 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345784
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,17 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345785
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,18 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345786
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,19 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345787
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,20 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345788
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,21 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345789
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,22 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345790
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,23 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345791
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,24 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345792
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,25 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345793
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,26 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345794
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,27 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345795
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,28 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345796
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,29 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345797
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,30 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345798
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,31 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345799
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,32 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345800
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,33 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345801
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,34 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345802
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,35 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345803
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,36 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345804
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,37 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345805
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,38 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345806
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,39 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345807
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,40 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345808
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,41 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345809
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,42 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345810
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,43 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345811
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,44 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345812
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,45 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345813
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,46 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345814
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,47 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345815
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,48 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345816
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,49 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345817
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,50 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345818
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,51 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345819
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,52 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345820
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,53 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345821
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,54 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345822
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,55 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345823
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,56 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345824
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,57 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345825
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,58 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345826
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,59 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345827
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,60 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345828
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,61 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345829
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,62 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345830
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,63 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345831
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,64 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345832
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,65 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345833
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,66 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345834
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,67 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345835
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,68 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345836
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,69 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345837
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,70 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345838
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,71 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345839
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,72 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345840
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,73 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345841
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,74 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345842
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,75 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345843
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,76 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345844
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,77 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345845
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,78 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345846
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,79 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345847
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,80 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345848
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,81 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345849
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,82 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345850
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,83 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345851
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,84 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345852
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,85 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345853
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,86 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345854
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,87 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345855
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,88 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345856
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,89 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345857
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,90 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345858
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,91 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345859
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,92 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345860
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,93 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345861
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,94 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345862
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,95 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345863
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,96 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345864
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,97 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345865
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,98 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345866
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,99 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345867
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,100 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345868
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,101 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345869
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" ,102 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/345870
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/285183
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,02 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301092
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,03 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301093
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,04 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301094
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,05 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301095
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,06 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301096
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,07 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301097
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,08 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301098
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,09 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/301099
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,10 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/341310
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,11 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/341311
+#EXTINF:-1 group-title="24/7 HOLLYWOOD ACTION MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,12 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/927382370/837382809/341312
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341313
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,02 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341314
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,03 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341315
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,04 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341316
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,05 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341317
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,06 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341318
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,07 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341319
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,08 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341320
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,09 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341321
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,10 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341322
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,11 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/927382370/837382809/341323
+#EXTINF:-1 group-title=" 24/7 HOLLYWOOD HORROR MOVIES" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" ,01 HOLLYWOOD THRILLER 24/7
+http://xtv.ooo:8080/927382370/837382809/341324
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" ,●★--- Welcome ----★●
+http://xtv.ooo:8080/927382370/837382809/369818
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,Movies: Fast & Furious 24/7
+http://xtv.ooo:8080/927382370/837382809/369819
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,MOVIES: INDIANA JONES 24/7
+http://xtv.ooo:8080/927382370/837382809/369820
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,SHOWS: JAMES BOND 24/7
+http://xtv.ooo:8080/927382370/837382809/369821
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,MOVIES: The transporter 24/7
+http://xtv.ooo:8080/927382370/837382809/369822
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7: Globe Tamil Bloclbuster
+http://xtv.ooo:8080/927382370/837382809/369823
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,Movies: X Men 24/7
+http://xtv.ooo:8080/927382370/837382809/369824
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,MOVIES: Blade 24/7
+http://xtv.ooo:8080/927382370/837382809/369825
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,Movies: CAPTAIN AMERICA / AVENGERS  24/7
+http://xtv.ooo:8080/927382370/837382809/369826
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,Movies: Pirates Of The Caribbean 24/7
+http://xtv.ooo:8080/927382370/837382809/369827
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,MOVIES: ROCKY MOVIES 24/7
+http://xtv.ooo:8080/927382370/837382809/369828
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,MOVIES: CARRY ON MOVIES  24/7
+http://xtv.ooo:8080/927382370/837382809/369829
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Fast and Furious Collection
+http://xtv.ooo:8080/927382370/837382809/369830
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Cyborg  plus Blade
+http://xtv.ooo:8080/927382370/837382809/369831
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Jeepers creepes plus Scream
+http://xtv.ooo:8080/927382370/837382809/369832
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Jurassic World Colletion
+http://xtv.ooo:8080/927382370/837382809/369833
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Oceans Complete Collection
+http://xtv.ooo:8080/927382370/837382809/369834
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Rambo collection
+http://xtv.ooo:8080/927382370/837382809/369835
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: The kingsman and Mission_impossoble Collection
+http://xtv.ooo:8080/927382370/837382809/369836
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Halloween and Jaws
+http://xtv.ooo:8080/927382370/837382809/369837
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: John wick and MiiB plud Mortal kombat
+http://xtv.ooo:8080/927382370/837382809/369838
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: Bruce lee and Underworld plus godfather
+http://xtv.ooo:8080/927382370/837382809/369839
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 4k: 4K movies 2022 2021 vol3
+http://xtv.ooo:8080/927382370/837382809/369840
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: 4K Movies 2022 2021 vol2
+http://xtv.ooo:8080/927382370/837382809/369841
+#EXTINF:-1 group-title="24/7 HOLLYWOOD MOVIES" ,24/7 Movies: 4K movies 2022 2021 vol1
+http://xtv.ooo:8080/927382370/837382809/369842
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 1
+http://xtv.ooo:8080/927382370/837382809/381992
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 2
+http://xtv.ooo:8080/927382370/837382809/381993
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 3
+http://xtv.ooo:8080/927382370/837382809/381994
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 4
+http://xtv.ooo:8080/927382370/837382809/381995
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 5
+http://xtv.ooo:8080/927382370/837382809/381996
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 6
+http://xtv.ooo:8080/927382370/837382809/381997
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 7
+http://xtv.ooo:8080/927382370/837382809/381998
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 8
+http://xtv.ooo:8080/927382370/837382809/381999
+#EXTINF:-1 group-title="24/7 NETFLIX SERIES" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/netflix-movie-series-download-template-design-3a7d8e00db6fffde55bb1c0e8a65eb79_screen.jpg?ts=1698533486" ,Netflix Series 9
+http://xtv.ooo:8080/927382370/837382809/382000
+

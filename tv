@@ -509,62 +509,86 @@ http://xtv.ooo:8080/98267/02727/378909
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="ENGLISH", AXN
-http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo=https://is.gd/3xyrMz.jpg"" group-title="ENGLISH", Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0HMXJJGAPqXLRHW_Uob8ZnMHOoGpg6DVYaCDTYvNRYrKMAye593D-zoCM&s=10" group-title="ENGLISH", Hollywood HD
-http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg" group-title="ENGLISH", & Flix HD
-http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_pix_hd
-#EXTINF: -1 tvg-logo="watch.plex.tv/icons/icon-192x192.png" group-title="ENGLISH", Fashion tv 
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/q5TILhg.png" group-title="ENGLISH", Sony Pix HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix/index.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies
-http://xtv.ooo:8080/live/T4S00515/820172/348059.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies HD
-http://212.102.34.8:9080/StarMoviesHD/video.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="ENGLISH", Star Movies Select
-http://xtv.ooo:8080/live/T4S00515/820172/66315.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gtkiZQY.png" group-title="ENGLISH", HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bGASr7e.png" group-title="ENGLISH", HBO Family
-http://xtv.ooo:8080/live/T4S00515/820172/346570.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nXxPliC.png" group-title="ENGLISH", HBO Signature
-http://xtv.ooo:8080/live/T4S00515/820172/346571.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kmyHso0.png" group-title="ENGLISH", HBO Hits
-http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/236920.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ALV5d53.png" group-title="ENGLISH", Movies Now
-https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now-hd/index.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uNWHQxu.png" group-title="ENGLISH", MN+
-https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Qyj4wsO.png" group-title="ENGLISH", Rock Action
-http://210.210.155.35/dr9445/h/h15/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/G6xBGv8.jpg" group-title="ENGLISH", Hungama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Qyj4wsO.png" group-title="ENGLISH", Rock Entertainment
-http://xtv.ooo:8080/6199216/619002/351026
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tUI0Upe.png" group-title="ENGLISH", BBC America
-https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/0RmvxOZ.png" group-title="ENGLISH", Best Action
-http://64.31.40.14:14031/
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png" group-title="ENGLISH", MOVIE SPHERE
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/1M0jHid.png" group-title="ENGLISH", Action Hollywood Movie
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="ENGLISH", History Channel
-http://xtv.ooo:8080/6199216/619002/206294
-#EXTINF: -1 tvg-logo="https://i.imgur.com/L5JDZ88.png" group-title="ENGLISH", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg" group-title="ENGLISH", CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/M5lptE4.png" group-title="ENGLISH", Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RnWZ864.png" group-title="ENGLISH", KBS World
-https://dplus.gammacdn.workers.dev/videos/97.m3u8
+
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
+http://xtv.ooo:8080/927382370/837382809/66211
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
+http://xtv.ooo:8080/927382370/837382809/66213
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix FHD
+http://xtv.ooo:8080/927382370/837382809/66224
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
+http://xtv.ooo:8080/927382370/837382809/66228
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
+http://xtv.ooo:8080/927382370/837382809/66229
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
+http://xtv.ooo:8080/927382370/837382809/66236
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
+http://xtv.ooo:8080/927382370/837382809/66241
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD
+http://xtv.ooo:8080/927382370/837382809/66266
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,IN | Movies Now FHD
+http://xtv.ooo:8080/927382370/837382809/66271
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Fox Life FHD
+http://xtv.ooo:8080/927382370/837382809/66278
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
+http://xtv.ooo:8080/927382370/837382809/66282
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-id="zeecafehd.in" ,IN | Zee Cafe HD
+http://xtv.ooo:8080/927382370/837382809/66287
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-id="starmoviesselecthd.in" ,IN | Star Movies Select HD
+http://xtv.ooo:8080/927382370/837382809/66315
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
+http://xtv.ooo:8080/927382370/837382809/66244
+
+
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/22162c8cdb9ebc82680cfc9b954a3f6e.jpeg" ,UK: Baby First TV
+http://xtv.ooo:8080/927382370/837382809/346246
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" ,UK: Baby TV
+http://xtv.ooo:8080/927382370/837382809/346247
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" tvg-id="boomerang.uk" ,UK: Boomerang
+http://xtv.ooo:8080/927382370/837382809/346248
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" tvg-id="cartoonnetwork.uk" ,UK: Cartoon Network
+http://xtv.ooo:8080/927382370/837382809/346249
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" ,UK: Cartoonito
+http://xtv.ooo:8080/927382370/837382809/346250
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" ,UK: CBBC
+http://xtv.ooo:8080/927382370/837382809/346251
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" ,UK: CBeebies
+http://xtv.ooo:8080/927382370/837382809/346252
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/accf2c64b8fea3206b10e1ec283d0e72.png" ,UK: CITV
+http://xtv.ooo:8080/927382370/837382809/346253
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" ,UK: Disney Channel
+http://xtv.ooo:8080/927382370/837382809/346254
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" ,UK: Disney Junior
+http://xtv.ooo:8080/927382370/837382809/346255
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" ,UK: Disney XD
+http://xtv.ooo:8080/927382370/837382809/346256
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/636d230717e1a437342b61b5bd962860.png" ,UK: Duck TV
+http://xtv.ooo:8080/927382370/837382809/346257
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8771649e3bc6d12c1f55fc4457f8be04.png" ,UK: JimJam
+http://xtv.ooo:8080/927382370/837382809/346258
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" ,UK: Lolly Kids
+http://xtv.ooo:8080/927382370/837382809/346259
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" ,UK: Nick Junior
+http://xtv.ooo:8080/927382370/837382809/346260
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" ,UK: nickelodeon
+http://xtv.ooo:8080/927382370/837382809/346261
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" ,UK: nicktoons
+http://xtv.ooo:8080/927382370/837382809/346262
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" ,UK: Pop
+http://xtv.ooo:8080/927382370/837382809/346263
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9905dea05c5bc94d21789c4c31fc54c9.png" ,UK: Pop +1
+http://xtv.ooo:8080/927382370/837382809/346264
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/577986769451a77f9b92cf2150ca0bfd.png" ,UK: Pop Max
+http://xtv.ooo:8080/927382370/837382809/346265
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" ,UK: Sky Cinema Animation
+http://xtv.ooo:8080/927382370/837382809/346266
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fdbfd5be8c0f9a02f5744e0305d02a4e.jpeg" ,UK: Super JoJo
+http://xtv.ooo:8080/927382370/837382809/346267
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/15be55dbd0b6c83cdf7146ffabd6ed87.jpg" ,UK: The Craft Store
+http://xtv.ooo:8080/927382370/837382809/346268
+#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" ,UK: Tiny Pop
+http://xtv.ooo:8080/927382370/837382809/346269
+
 
 
 

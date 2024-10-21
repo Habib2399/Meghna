@@ -22,11 +22,11 @@ http://164.215.98.132:2082/8649G54859/8649G54859/71444
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/9788.ts
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V0R3PoR.png" group-title="BANGLADESHI", Apon Tv
@@ -52,7 +52,7 @@ http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="BANGLADESHI", Bangla Tv Europe
 http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/RbB6Lt4/images-23.jpg" group-title="BANGLADESHI", BISWA BANGLA TV
-https://app.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XJyLT5WB/logo-transparent.png" group-title="BANGLADESHI", B24C
 https://livess.ncare.live/live-orgin/b24c.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Bongo Drama
@@ -122,12 +122,12 @@ https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit_Fc4EgF4QZrY6DuZBQHUM_xCv3MR5ghD5KN-Cqq_wD6VGhK5gqwTxM&s=10" group-title="BANGLADESHI", JagoNews24
-https://app.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV

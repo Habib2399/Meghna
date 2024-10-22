@@ -215,6 +215,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ea56bdf9-cd83-4fbf-ae9a-db1c383ba08f/2.m3u8?ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98834_eng=98800-video=863200.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10.png" group-title="KOLKATA", Mon tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png" group-title="KOLKATA", Zee Bangla

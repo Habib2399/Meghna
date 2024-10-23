@@ -2,7 +2,6 @@
   
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3NN3KJ87/IMG-20241017-185544.jpg" group-title="ITS ME", Its Me
 http://164.215.98.132:2082/8649G54859/8649G54859/396
-
 #EXTINF:-1 group-title="الاســلام" tvg-logo="https://i.postimg.cc/1tKGR5gv/image.jpg" ,peace tv Bangla HD
 http://164.215.98.132:2082/8649G54859/8649G54859/39652
 #EXTINF:-1 group-title="الاســلام" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj6YuFr8JwiZ9_7JIaFAWdfFPeEp_AdxbI_CFGonA=s88-c-k-c0x00ffffff-no-rj" ,القرآن الكريم HD
@@ -534,58 +533,6 @@ http://xtv.ooo:8080/927382370/837382809/66287
 http://xtv.ooo:8080/927382370/837382809/66315
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
 http://xtv.ooo:8080/927382370/837382809/66244
-
-
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/22162c8cdb9ebc82680cfc9b954a3f6e.jpeg" ,UK: Baby First TV
-http://xtv.ooo:8080/927382370/837382809/346246
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" ,UK: Baby TV
-http://xtv.ooo:8080/927382370/837382809/346247
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/128b14884de50bdd5bedeb5f55bf67c3.png" tvg-id="boomerang.uk" ,UK: Boomerang
-http://xtv.ooo:8080/927382370/837382809/346248
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" tvg-id="cartoonnetwork.uk" ,UK: Cartoon Network
-http://xtv.ooo:8080/927382370/837382809/346249
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" ,UK: Cartoonito
-http://xtv.ooo:8080/927382370/837382809/346250
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" ,UK: CBBC
-http://xtv.ooo:8080/927382370/837382809/346251
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" ,UK: CBeebies
-http://xtv.ooo:8080/927382370/837382809/346252
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/accf2c64b8fea3206b10e1ec283d0e72.png" ,UK: CITV
-http://xtv.ooo:8080/927382370/837382809/346253
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" ,UK: Disney Channel
-http://xtv.ooo:8080/927382370/837382809/346254
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" ,UK: Disney Junior
-http://xtv.ooo:8080/927382370/837382809/346255
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" ,UK: Disney XD
-http://xtv.ooo:8080/927382370/837382809/346256
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/636d230717e1a437342b61b5bd962860.png" ,UK: Duck TV
-http://xtv.ooo:8080/927382370/837382809/346257
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8771649e3bc6d12c1f55fc4457f8be04.png" ,UK: JimJam
-http://xtv.ooo:8080/927382370/837382809/346258
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b9b0b402c2f91e70573dabee46aa57.png" ,UK: Lolly Kids
-http://xtv.ooo:8080/927382370/837382809/346259
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" ,UK: Nick Junior
-http://xtv.ooo:8080/927382370/837382809/346260
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" ,UK: nickelodeon
-http://xtv.ooo:8080/927382370/837382809/346261
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" ,UK: nicktoons
-http://xtv.ooo:8080/927382370/837382809/346262
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" ,UK: Pop
-http://xtv.ooo:8080/927382370/837382809/346263
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9905dea05c5bc94d21789c4c31fc54c9.png" ,UK: Pop +1
-http://xtv.ooo:8080/927382370/837382809/346264
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/577986769451a77f9b92cf2150ca0bfd.png" ,UK: Pop Max
-http://xtv.ooo:8080/927382370/837382809/346265
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" ,UK: Sky Cinema Animation
-http://xtv.ooo:8080/927382370/837382809/346266
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fdbfd5be8c0f9a02f5744e0305d02a4e.jpeg" ,UK: Super JoJo
-http://xtv.ooo:8080/927382370/837382809/346267
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/15be55dbd0b6c83cdf7146ffabd6ed87.jpg" ,UK: The Craft Store
-http://xtv.ooo:8080/927382370/837382809/346268
-#EXTINF:-1 group-title="UK ➾ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" ,UK: Tiny Pop
-http://xtv.ooo:8080/927382370/837382809/346269
-
-
 
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV

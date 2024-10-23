@@ -255,6 +255,10 @@ https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134537
 
 
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Eten TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
@@ -263,14 +267,10 @@ https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=136&e=.m3u8|User-Agent=test69
 http://tinyurl.com/Rabindrasang
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
 http://watchindia.net:8880/live/80817/80817/786.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Eten TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239155.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9x Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3J497Dnm/download-8.png" group-title="MUSIC", Arabic Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jawla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
@@ -311,14 +311,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" , Music 24/7 1
-http://ekdilhai.pro/TSER247/index.m3u8?token=0cbea10cc47827e277030f670d7d2e38
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,Music 24/7 2
-http://ekdilhai.pro/zp1247/index.m3u8?token=ffcad025fb93241063a6b781e1fb663c
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,Music 24/7 3
-http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d96
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEpTMbUnPjujv4CbVoJMUrUywYhNnXyjxPA&usqp=CAU" ,24/7 MUSIC 4
-http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
 http://xtv.ooo:8080/927382370/837382809/270518
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 09

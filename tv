@@ -224,7 +224,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/F0dmFko.jpg" group-title="KOLKATA", Zee Bangla cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF: -1 tvg-logo="https://tv4.hoichoi24.com/assets/images/Star%20Jalsha1664976894.png" group-title="KOLKATA", Star Jalsha HD
+#EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
 http://172.20.21.22/live/funtime112/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", TV9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -239,7 +239,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png" group-title="KOLKATA", Sony Aath
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg" group-title="KOLKATA", Star Jalsha Movies
+#EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
 http://103.190.85.38/hls/zeemovie.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8

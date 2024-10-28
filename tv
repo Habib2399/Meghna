@@ -758,6 +758,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Cartoon Network
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346249.ts
+#EXTINF: -1 tvg-logo="https://crichd-live.top/wp-content/uploads/2024/10/the-jungle-book.png" group-title="CARTOON", Cartoon Network
+https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/c58f1478-8bbf-449c-8524-840b9dcc3bec/2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DZtvMpgS/download-10.png" group-title="CARTOON", Pop Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick

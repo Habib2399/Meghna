@@ -303,7 +303,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/622a3500-0aaf-4c82-9ba1-f4ecf731dc79/1.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
@@ -420,7 +420,7 @@ http://172.105.123.238:18002/play/a01q
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 http://xtv.ooo:8080/live/387546/200900/221259.ts
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2194.ts
+https://crichd-live.top/live/toffee/play.php?id=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_max%2Fplaylist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2195.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv
@@ -510,7 +510,7 @@ http://xtv.ooo:8080/927382370/837382809/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
 http://xtv.ooo:8080/927382370/837382809/66213
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix FHD
-http://xtv.ooo:8080/927382370/837382809/66224
+https://crichd-live.top/live/toffee/play.php?id=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fsony_pix_hd%2Fplaylist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD
 http://xtv.ooo:8080/927382370/837382809/66228
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD

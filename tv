@@ -264,7 +264,7 @@ https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=136&e=.m3u8|User-Agent=test69
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJVyPpD.jpg" group-title="MUSIC", Robindo songit
 http://tinyurl.com/Rabindrasang
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Mtv beat
-http://watchindia.net:8880/live/80817/80817/786.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=8399&deviceMac=00:1A:79:12:AB:2A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
 http://mixbix.xyz:8080/live/afVZb46zeZrT/LdZyXr6ZeqaY/239155.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9x Music

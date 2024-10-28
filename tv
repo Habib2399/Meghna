@@ -440,7 +440,7 @@ http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817112.
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
-http://watchindia.net:8880/live/80817/80817/783.ts
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
@@ -758,7 +758,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Cartoon Network
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346249.ts
-#EXTINF: -1 tvg-logo="https://crichd-live.top/wp-content/uploads/2024/10/the-jungle-book.png" group-title="CARTOON", Cartoon Network
+#EXTINF: -1 tvg-logo="https://crichd-live.top/wp-content/uploads/2024/10/the-jungle-book.png" group-title="CARTOON", The Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/c58f1478-8bbf-449c-8524-840b9dcc3bec/2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DZtvMpgS/download-10.png" group-title="CARTOON", Pop Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8

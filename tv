@@ -229,7 +229,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
-http://172.20.21.22/live/funtime112/index.m3u8
+http://bdix.sadman.app.tc/StarJalshaFHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/-tAppg" group-title="KOLKATA", Sony Aath
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
@@ -245,7 +245,7 @@ https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134537
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://bdix.sadman.app.tc/ZeeBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2178.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg" group-title="KOLKATA", Zee Bangla Cinema

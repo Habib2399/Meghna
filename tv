@@ -604,8 +604,8 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network Hindi
-
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8GG8SIoV2EaGrdWGx64O3y6qAbnqU7RXiDYDZutuql8hC9Vgc0j5apE&s=10.png" group-title="CARTOON", ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
 
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)

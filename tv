@@ -398,7 +398,7 @@ http://starshare.live:8080/live/Michelle123/Michelle123/157081.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
 http://xtv.ooo:8080/live/T4S00515/820172/221258.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2193.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2202.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png" group-title="INDIAN", Star Gold Romance
 http://bostv.one:8080/live/Hitesh123/Hitesh123/95902.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
@@ -406,7 +406,7 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
 http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd
-http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2196.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
@@ -461,8 +461,8 @@ http://watchindia.net:8880/live/80817/80817/821.ts
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png" group-title="INDIAN", Zee Tamil
 http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png" group-title="INDIAN", Zee Kannada
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png" group-title="INDIAN", Zee Classic
+http://watchindia.net:8880/live/80817/80817/802.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i1UkI3B.jpg" group-title="INDIAN", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i1kI3B.jpg" group-title="INDIAN", RDC Movies

@@ -458,7 +458,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg" group-title="INDIAN", Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="INDIAN", Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+http://watchindia.net:8880/live/80817/80817/821.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg" group-title="INDIAN", Zee Talkies
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png" group-title="INDIAN", Zee Tamil
@@ -541,8 +541,6 @@ http://xtv.ooo:8080/global/global/355013
 http://xtv.ooo:8080/global/global/347499
 #EXTINF:-1 group-title="Documentary" ,BE: FashionTV
 http://xtv.ooo:8080/global/global/348339
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" ,BD | DISCOVERY BANGLA
-http://xtv.ooo:8080/global/global/245966
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
 http://xtv.ooo:8080/global/global/346445
 #EXTINF:-1 group-title="Documentary" Discovery  Science
@@ -606,6 +604,23 @@ https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8GG8SIoV2EaGrdWGx64O3y6qAbnqU7RXiDYDZutuql8hC9Vgc0j5apE&s=10.png" group-title="CARTOON", ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Hungama tv
+http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
+http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/s0I9JCk.png" group-title="CARTOON", Doraemon
+http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title=SPORTS tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
@@ -788,24 +803,6 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/307079.ts
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/329247.ts
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Hungama tv
-http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
-http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/s0I9JCk.png" group-title="CARTOON", Doraemon
-http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
-https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
-
 
 
 FM RADIO

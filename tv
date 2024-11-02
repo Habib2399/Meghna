@@ -560,7 +560,7 @@ http://xtv.ooo:8080/global/global/206292
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/live/98267/02727/206280.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
-http://xtv.ooo:8080/global/global/206280
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="travelxphd.in" , Travel XP Eng
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8

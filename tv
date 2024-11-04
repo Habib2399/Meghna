@@ -584,7 +584,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 
-https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png" group-title="CARTOON", Rongeen Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8

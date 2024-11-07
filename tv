@@ -276,8 +276,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 http://xtv.ooo:8080/live/06865926/38568386/206054.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV HD
 http://xtv.ooo:8080/live/06865926/38568386/206049.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wjwzXVpV/image.png" group-title="MUSIC", Zee Etc
-http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
 http://xtv.ooo:8080/live/global/global/346356.ts
 #EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
@@ -308,6 +306,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wjwzXVpV/image.png" group-title="MUSIC", Zee Etc
+http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17
 http://xtv.ooo:8080/927382370/837382809/270518
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 09
@@ -355,9 +355,9 @@ http://xtv.ooo:8080/927382370/837382809/270505
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Up3mWkD.jpg" group-title="INDIAN", ABZY Movies
 http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/X7459Y8W/1128-bollywood-clasic.png" group-title="INDIAN", Bollywood Classic
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/638.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg" group-title="INDIAN", Bollywood HD
+#EXTINF: -1 tvg-logo="http://surl.li/pjduvy" group-title="INDIAN", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF: -1 tvg-logo="http://surl.li/upxnmg" group-title="INDIAN", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -367,8 +367,6 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 https://cdn2.pishow.tv/live/160/160_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dd8VLUN.jpg" group-title="INDIAN", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors
 http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey

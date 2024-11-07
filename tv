@@ -393,7 +393,7 @@ http://172.105.123.238:18002/play/a01j
 http://xtv.ooo:8080/live/global/global/112973.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold 2
+#EXTINF: -1 tvg-logo="http://surl.li/xvmory" group-title="INDIAN", Star Gold 2
 http://starshare.live:8080/live/Michelle123/Michelle123/157081.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
 http://xtv.ooo:8080/live/T4S00515/820172/221258.ts

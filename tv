@@ -399,7 +399,7 @@ http://starshare.live:8080/live/Michelle123/Michelle123/157081.ts
 http://xtv.ooo:8080/live/T4S00515/820172/221258.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2202.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png" group-title="INDIAN", Star Gold Romance
+#EXTINF: -1 tvg-logo="file:///C:/Users/SUJON/Downloads/1372.webp" group-title="INDIAN", Star Gold Romance
 http://bostv.one:8080/live/Hitesh123/Hitesh123/95902.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A

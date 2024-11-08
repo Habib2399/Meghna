@@ -720,8 +720,8 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237052
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237213
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" ,DSTV : SUPERSPORTS PREMIER LEAGUE HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237218
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" ,US: SPORTS XTRA
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237258
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" , Sony Sports 1
+http://172.20.21.22/live/skyfeed1007/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,BEIN SPORT ENGLISH 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" ,BEIN SPORT ENGLISH 1

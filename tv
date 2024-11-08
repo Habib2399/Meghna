@@ -286,6 +286,7 @@ http://xtv.ooo:8080/live/global/global/346357.ts
 http://global.ncare.live/live-orgin/v2beattv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
 https://cdn2.pishow.tv/live/141/master.m3u8
+https://toffee.iptvbd.xyz/api/b4umusic.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
 http://global.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV

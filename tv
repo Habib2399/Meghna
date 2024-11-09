@@ -639,7 +639,7 @@ http://gcp-dash.ngslbs.com/TVD003/index.mpd
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8

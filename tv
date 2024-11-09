@@ -682,7 +682,7 @@ http://xtv.ooo:8080/global/global/238480
 http://xtv.ooo:8080/global/global/238475
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" tvg-id="supersportblitz.za" ,Af | DSTV: Super Sports Blitz
 http://xtv.ooo:8080/global/global/238487
-#EXTINF:-1 group-title="SPORTS tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" tvg-id="supersportgolf.za" ,Af | DSTV: Super Sports Golf
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" tvg-id="supersportgolf.za" ,Af | DSTV: Super Sports Golf
 http://xtv.ooo:8080/global/global/238488
 #EXTINF:-1 group-title="SPORTS"tvg-id="supersportlaliga.za" ,Af | DSTV: Super Sports La Liga
 http://xtv.ooo:8080/global/global/238479

@@ -628,14 +628,26 @@ https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
 http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
-http://xtv.ooo:8080/global/global/167595
+http://xtv.ooo:8080/global/global/167580
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 1
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 2
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 3
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 4
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
+http://gcp-dash.ngslbs.com/TVD005/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , TNT
 http://14.128.12.54/cric/m3u8.php/bbtsp1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" ,AE: StarzPlay Criclife 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , StarzPlay Criclife 2
 http://xtv.ooo:8080/global/global/355009
-#EXTINF:-1 group-title="SPORTS" ,AE: StarzPlay Criclife 3
+#EXTINF:-1 group-title="SPORTS" , StarzPlay Criclife 3
 http://xtv.ooo:8080/global/global/355010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" ,IN | STAR SPORTS SELECT 2
 http://xtv.ooo:8080/global/global/167579

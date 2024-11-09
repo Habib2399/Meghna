@@ -646,7 +646,7 @@ http://xtv.ooo:8080/global/global/167582
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" ,IN: DD Sports
 http://xtv.ooo:8080/global/global/167588
 #EXTINF:-1 group-title=SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" tvg-id="skysportscricket.uk" ,UK: Sky Sports Cricket
-http://xtv.ooo:8080/global/global/167594
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46,TSN 1 🇨🇦
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46,TSN 2 🇨🇦

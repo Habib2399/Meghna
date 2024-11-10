@@ -629,16 +629,15 @@ https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/global/global/167580
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 1
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg", TNT SPORTS 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 2
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg", TNT SPORTS 2
 http://gcp-dash.ngslbs.com/TVD002/index.mpd
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 3
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg", TNT SPORTS 3
 http://gcp-dash.ngslbs.com/TVD003/index.mpd
-
-#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 4
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg", TNT SPORTS 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg", TNT SPORTS 5
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -668,7 +667,6 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46, TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS",T20 WORLD CUP 01
 http://xtv.ooo:8080/global/global/219643
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501

@@ -388,7 +388,7 @@ http://xtv.ooo:8080/live/5143datqa/6156gafwq/112972.ts
 http://172.105.123.238:18002/play/a01j
 #EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
 http://xtv.ooo:8080/live/global/global/112973.ts
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png" group-title="INDIAN", Star Gold HD
+#EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
 http://bapatv.live:8080/stargold2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/106133.ts
@@ -396,7 +396,7 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/106133.ts
 http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF: -1 tvg-logo="file:///C:/Users/SUJON/Downloads/1372.webp" group-title="INDIAN", Star Gold Romance
+#EXTINF: -1 tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN", Star Gold Romance
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A

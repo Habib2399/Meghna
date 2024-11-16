@@ -28,7 +28,7 @@ https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="BANGLADESHI", Atn Music
-https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/atnmusic.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/V0R3PoR.png" group-title="BANGLADESHI", Apon Tv
 http://mag.trexlive.me/Michael88/Michael88/225782
 #EXTINF: -1 tvg-logo="https://i.imgur.com/IbzmQq4.jpg" group-title="BANGLADESHI", AR Tv
@@ -68,7 +68,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
 http://extraott-iptv.com:88/live/0229477349/8104258135/400200119.ts
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
+https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESHI", Channel 9
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
@@ -98,7 +98,7 @@ http://bd.ottbd.online:2082/live/rozario859/01327184859/2352.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ekhontv
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
-http://172.20.21.22/live/skyfeed1015/index.m3u8
+https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ag0z5T3.jpg" group-title="BANGLADESHI", FBTV
@@ -125,11 +125,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF: -1 tvg-logo="https://i.ibb.co/X7w7gQm/Final-Red-Logo.png" group-title="BANGLADESHI", JonmoBhumi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRit_Fc4EgF4QZrY6DuZBQHUM_xCv3MR5ghD5KN-Cqq_wD6VGhK5gqwTxM&s=10" group-title="BANGLADESHI", JagoNews24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+https://static.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
@@ -215,7 +215,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QaTnRJq.png" group-title="KOLKATA", R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bUhoxxw.png" group-title="KOLKATA", News 18
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_98834_eng=98800-video=863200.m3u8
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwZQFXi9vdY39Mc6-Fd2Bv1IuweN5oE7Fg3L4SjsFtXCDmJmUFOxRnqM&s=10.png" group-title="KOLKATA", Mon tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF: -1 tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://tinyurl.com/4h9h9s4y" group-title="KOLKATA", COLORS BANGLA CINEMA
@@ -279,9 +279,9 @@ https://is.gd/WOeLN9.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
 http://xtv.ooo:8080/live/global/global/346357.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
-http://global.ncare.live/live-orgin/v2beattv.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
-https://toffee.iptvbd.xyz/api/b4umusic.m3u8
+https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
 http://global.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
@@ -354,7 +354,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/104200.ts
 #EXTINF: -1 tvg-logo="http://surl.li/pjduvy" group-title="INDIAN", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF: -1 tvg-logo="http://surl.li/upxnmg" group-title="INDIAN", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
@@ -368,9 +368,9 @@ http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MyfKDWw.png" group-title="INDIAN", Colors Cineplex HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/383.ts
+https://colorsscreen.com/live.php?id=482&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
-http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=7852&deviceMac=00:1A:79:CC:56:3B
+https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
 http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
@@ -546,7 +546,7 @@ http://opplex.live:8080/live/Umair00066/11223344/206278.ts
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet
-http://172.20.21.22/live/funtime1025/index.m3u8
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
@@ -789,7 +789,7 @@ https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Cartoon Network
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346249.ts
 #EXTINF: -1 tvg-logo="https://crichd-live.top/wp-content/uploads/2024/10/the-jungle-book.png" group-title="CARTOON", The Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/c58f1478-8bbf-449c-8524-840b9dcc3bec/2.m3u8
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DZtvMpgS/download-10.png" group-title="CARTOON", Pop Max
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick

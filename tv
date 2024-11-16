@@ -54,7 +54,7 @@ http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/RbB6Lt4/images-23.jpg" group-title="BANGLADESHI", BISWA BANGLA TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XJyLT5WB/logo-transparent.png" group-title="BANGLADESHI", B24C
-https://livess.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Bongo Drama
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Bongo Movies
@@ -170,7 +170,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png" group-title="BANGLADESHI", CHANNEL S uk
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
-https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/RKwkO" group-title="BANGLADESHI", T Sports
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", Toffee Movies
@@ -425,6 +425,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100803
 #EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Zee Tv HD
 http://170.254.18.107/ZEE/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OujQ9gL.png" group-title="INDIAN", Movie box
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg" group-title="INDIAN", Zee Marathi HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv

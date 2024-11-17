@@ -567,6 +567,10 @@ https://jio.jiotv.link/api/app/live.php?id=146&e=.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
 http://103.175.242.10:8080/natgeo/index.m3u8
+https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
+https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
 http://xtv.ooo:8080/global/global/206286
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC

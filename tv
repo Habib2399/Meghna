@@ -283,7 +283,7 @@ https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=ht
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
 https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
-http://global.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", B4U Hits

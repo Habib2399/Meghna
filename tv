@@ -269,7 +269,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV
 http://xtv.ooo:8080/live/06865926/38568386/206054.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV HD
-http://xtv.ooo:8080/live/06865926/38568386/206049.ts
+http://109.61.81.147:2080/cdn2/4837/video.m3u8?token=4444
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
 http://xtv.ooo:8080/live/global/global/346356.ts
 #EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane

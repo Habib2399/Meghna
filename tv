@@ -93,7 +93,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="BANGLADESHI", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
-https://starshare.live:443/live/3569087360/6542246996/433.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
 https://static.jagobd.com.bd/live-orgin/globaltv.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=FREETVBD
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
@@ -368,7 +368,7 @@ https://colorsscreen.com/live.php?id=482&extension=.m3u8|Referer=https://colorss
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
-http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=7852&deviceMac=00:1A:79:CC:56:3B
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", All Time Movies

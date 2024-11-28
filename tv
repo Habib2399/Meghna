@@ -533,6 +533,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 /containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://is.gd/imZMIp", DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://is.gd/pOyTnP", Aljazeera NEWS
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 http://xtv.ooo:8080/global/global/355013

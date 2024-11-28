@@ -224,7 +224,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
-http://172.20.21.22/live/funtime112/index.m3u8
+http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
@@ -354,7 +354,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
-https://cdn2.pishow.tv/live/156/master.m3u8
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u88
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 https://cdn2.pishow.tv/live/160/160_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie

@@ -525,8 +525,7 @@ http://103.175.242.10:8080/starmovies/index.m3u8
 http://xtv.ooo:8080/927382370/837382809/66244
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" , Young Hollywood 
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERNATIONAL NEWS" , BBC NEWS https://is.gd/DtaJNT
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://is.gd/DtaJNT" BBC NEWS 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV

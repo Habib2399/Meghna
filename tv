@@ -127,7 +127,7 @@ https://static.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8|referer=
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://static.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
@@ -384,7 +384,7 @@ http://172.105.123.238:18002/play/a01j
 #EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
 http://xtv.ooo:8080/live/global/global/112973.ts
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
-http://xtv.ooo:8080/live/4262701/52719/66177.ts
+https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
 http://xtv.ooo:8080/live/4262701/52719/106133.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
@@ -426,7 +426,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg" group-title="INDIAN", Zee Marathi HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & Tv
-http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/817112.ts
+https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & explore
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
@@ -505,6 +505,8 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://xtv.ooo:8080/927382370/837382809/66228
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO HD
 http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
 http://xtv.ooo:8080/927382370/837382809/66236
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD

@@ -278,7 +278,7 @@ http://xtv.ooo:8080/live/global/global/346357.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
 https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
-https://colorsscreen.com/live.php?id=183&extension=.m3u8|Referer=https://colorsscreen.com/
+http://109.61.81.147:2080/cdn2/501/video.m3u8?token=4444
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
@@ -355,7 +355,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u88
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=4166&deviceMac=00:1A:79:F3:9F:F5
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie

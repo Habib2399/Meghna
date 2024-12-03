@@ -524,6 +524,9 @@ http://xtv.ooo:8080/927382370/837382809/66287
 http://103.175.242.10:8080/starmovies/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" ,IN | MN+ HD
 http://xtv.ooo:8080/927382370/837382809/66244
+/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" , CINEMAX
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" , Young Hollywood 
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 
@@ -644,14 +647,13 @@ http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
 http://xtv.ooo:8080/global/global/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 1
-http://gcp-dash.ngslbs.com/TVD001/index.mpd
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 2
-http://gcp-dash.ngslbs.com/TVD002/index.mpd
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 3
-http://gcp-dash.ngslbs.com/TVD003/index.mpd
-
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 4
-http://gcp-dash.ngslbs.com/TVD004/index.mpd
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 5
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" tvg-id="skysportscricket.uk" , TEN SPORTS
@@ -666,8 +668,8 @@ http://xtv.ooo:8080/global/global/355010
 http://xtv.ooo:8080/global/global/167579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
 http://xtv.ooo:8080/global/global/167578
-#EXTINF:-1 group-title="SPORTS" ,IN | Willow Xtra
-http://xtv.ooo:8080/global/global/167582
+#EXTINF:-1 group-title="SPORTS",  Willow Xtra
+https://criclive.moviesflixter.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" ,IN: DD Sports
 http://xtv.ooo:8080/global/global/167588
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" tvg-id="skysportscricket.uk" ,UK: Sky Sports Cricket

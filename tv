@@ -288,7 +288,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" group-title="MUSIC", SHOW BOX
-https://epiconvh.s.llnwi.net/showbox/master.m3u8
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM
@@ -369,7 +369,7 @@ http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MyfKDWw.png" group-title="INDIAN", Colors Cineplex HD
-https://colorsscreen.com/live.php?id=482&extension=.m3u8|Referer=https://colorsscreen.com/
+https://drmlive.in/yupptv/premium/colorscineplexus.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit

@@ -229,7 +229,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
-http://172.20.21.22/live/funtime112/index.m3u8
+https://baskardo.vip/IN_JALSHAS/index.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
@@ -243,7 +243,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
-http://172.20.21.22/live/funtime111/index.m3u8
+https://baskardo.vip/IN_ZEBS/index.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
@@ -389,7 +389,7 @@ http://172.105.123.238:18002/play/a01j
 #EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
 http://xtv.ooo:8080/live/global/global/112973.ts
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
-https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+https://baskardo.vip/IN_STGOLD/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
 http://xtv.ooo:8080/live/4262701/52719/106133.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
@@ -403,7 +403,7 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QQX9A0m.png" group-title="INDIAN", Star Bharat HD
 http://xtv.ooo:8080/live/T4S00515/820172/66170.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg" group-title="INDIAN", Star Plues Hd
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2196.ts
+https://baskardo.vip/IN_STS/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qanBTkv.png" group-title="INDIAN", Sony Sab HD
@@ -437,7 +437,7 @@ https://freetvbd.short.gy/&pictures.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-http://170.254.18.107/ZEECINEMA/index.m3u8
+https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol

@@ -88,7 +88,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png" group-title="BANGLADESHI", CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=13240&deviceMac=00:1A:79:3F:2D:40
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
 http://tv.cloudcdn.me:80/live.ts?channelId=29197&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 #EXTINF: -1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESHI", Deshi Tv
@@ -282,7 +282,7 @@ http://xtv.ooo:8080/live/global/global/346357.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
 https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
-https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1734596995~exp=1734640195~acl=/byte-capsule/*~data=43.246.201.156-WEB~hmac=72c4d76c2b0bbc13f85c100a933fc4df9394b7e11f5fd504e207823fb48bada4
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/110174.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="MUSIC", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jm4S4JN.jpg" group-title="MUSIC", Colosal TV

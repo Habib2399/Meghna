@@ -620,13 +620,13 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+http://xtv.ooo:8080/live/68984368/97547998/150478.ts
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8GG8SIoV2EaGrdWGx64O3y6qAbnqU7RXiDYDZutuql8hC9Vgc0j5apE&s=10.png" group-title="CARTOON", ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMR1b7hH/download-10.png" group-title="CARTOON", Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+http://xtv.ooo:8080/live/68984368/97547998/150483.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SwO1IA2.png" group-title="CARTOON", SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg" group-title="CARTOON", Zoo Moo
@@ -834,11 +834,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been
 https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg" group-title="CARTOON", Motu Patlu
-https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Motu-patlu.m3u8
+http://xtv.ooo:8080/live/68984368/97547998/307079.ts
 #EXTINF: -1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="CARTOON", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry
-https://tiger-hub.vercel.app/Mehedi-hasan/24×7-Tom&jerry.m3u8
+http://xtv.ooo:8080/live/68984368/97547998/329247.ts
 
 
 FM RADIO

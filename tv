@@ -233,7 +233,7 @@ http://humsab.xyz/IN_JALSHAS/index.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
-http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema
@@ -294,7 +294,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/grthh0o.png" group-title="MUSIC", ZooM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF: -1 tvg-logo="httpb4u s://i.postimg.cc/3NcL7xYn/images-4-22.jpg" group-title="MUSIC", ZING MUSIC
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
@@ -433,11 +433,11 @@ https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & explore
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
-https://freetvbd.short.gy/&pictures.m3u8
+https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
+http://170.254.18.107/ZEECINEMA/index.m3u88
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
@@ -620,7 +620,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg" group-title="CARTOON", Kidsland
 https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png" group-title="CARTOON", Cartoon Network
-http://xtv.ooo:8080/live/68984368/97547998/150478.ts
+https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8GG8SIoV2EaGrdWGx64O3y6qAbnqU7RXiDYDZutuql8hC9Vgc0j5apE&s=10.png" group-title="CARTOON", ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nOYdnaK.png" group-title="CARTOON", PBS KIDS

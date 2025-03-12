@@ -138,7 +138,7 @@ https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 https://app.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
 http://172.20.21.22/live/funtime109/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv

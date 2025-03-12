@@ -130,8 +130,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://static.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BHJMbnO.jpg" group-title="BANGLADESHI", Ktv Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
-https://www.its-ferdos-alom.top/rajpondit/jd/jadoo.php?id=rtv&e=.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", RTV
+http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAsP1Xw.jpg" group-title="BANGLADESHI", R Tv Music
 https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV

@@ -229,11 +229,11 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
-http://familyip.vip/atn_bangla_uk/index.m3u8
+http://103.122.74.6:8888/hls/starJalsha.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
-http://atg100.xyz/live/UL33K17/SYC4T9D/76205.m3u8
+http://103.122.74.6:8888/hls/zeemovie.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1vGpCS.jpg" group-title="KOLKATA", Tara Bangla Cinema

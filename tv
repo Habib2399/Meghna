@@ -46,7 +46,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
-https://iptvcable.netlify.app/Altogether-007/Bangladesh/BTV.m3u8
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
@@ -80,7 +80,7 @@ https://vokta.raytahost.com/live/voktatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI", Cumilla Tv
-http://103.149.142.133/0.m3u8
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zRN30eE.jpg" group-title="BANGLADESHI", Channel 52
 http://208.86.19.13:81/503.stream/index.m3u8?
 #EXTINF: -1 tvg-logo="https://i.ibb.co/QbPF5s2/images-24.jpg" group-title="BANGLADESHI", CAN BANGLA
@@ -99,7 +99,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 https://jadoo.iptvbd.xyz/jadoo.php?id=duronto_tv&e=.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
-http://172.20.21.22/live/skyfeed1006/index.m3u8
+http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 http://172.20.21.22/live/skyfeed1015/index.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
@@ -413,7 +413,7 @@ https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxt
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nP7vORq.jpg" group-title="INDIAN", Sony Entertainment Tv

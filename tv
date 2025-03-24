@@ -117,7 +117,7 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ64YIvU8H4_c9Y0FquMnYyPFzcksDnfYPGR3eVl69j6A&s" group-title="BANGLADESHI", Nagorik tv
-https://fyfl.short.gy/www.017666.blogspot.com/000/.m3u8
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 http://172.20.21.22/live/skyfeed1021/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CyNx0Zh.png" group-title="BANGLADESHI", Jatv
@@ -369,7 +369,7 @@ http://401551365157399665.napgoto413.xyz:80/live/Alfon0111H/Admtkefew123/812355.
 #EXTINF: -1 tvg-logo="https://i.imgur.com/h86708M.png" group-title="INDIAN", Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MyfKDWw.png" group-title="INDIAN", Colors Cineplex HD
-https://mycdn.tamilultratv.com/live.m3u8?id=482
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/20dvTcf.png" group-title="INDIAN", Colors Cinneplex Bollywood
 https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Colors  Superhit
@@ -395,7 +395,7 @@ http://xtv.ooo:8080/live/4262701/52719/106133.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png" group-title="INDIAN", Star Gold THRILLS
 http://103.175.242.10:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ktgkqwj.png" group-title="INDIAN", Star Gold Select HD
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN", Star Gold Romance
 http://xtv.ooo:8080/live/4262701/52719/66186.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SyDPLgu.png" group-title="INDIAN", Star Ustav
@@ -433,7 +433,7 @@ https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & explore
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
-https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
+http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
@@ -585,20 +585,19 @@ https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/i
 http://103.175.242.10:8080/natgeo/index.m3u8
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
-https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
-
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild HINDI
 http://xtv.ooo:8080/global/global/206286
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC
-http://xtv.ooo:8080/live/98267/02727/346308.ts
+http://103.122.74.6:8888/hls/TLC.HD.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
 http://xtv.ooo:8080/global/global/363004
 #EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
-https://nowmetv.xyz/delta/discovery/api/Discovery_Hindi.m3u8
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png" group-title="Documentary", Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food

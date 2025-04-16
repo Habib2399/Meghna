@@ -88,9 +88,9 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png" group-title="BANGLADESHI", CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
-http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=13240&deviceMac=00:1A:79:3F:2D:40
+http://103.163.247.39:80/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
-http://tv.cloudcdn.me:80/live.ts?channelId=29197&uid=16068&deviceMac=00:1A:79:0A:3B:2B
+http://103.163.247.39:80/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESHI", Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
@@ -586,7 +586,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/i
 http://103.175.242.10:8080/natgeo/index.m3u8
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
-http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+http://212.102.60.231:80/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild
 http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC

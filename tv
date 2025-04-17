@@ -470,19 +470,19 @@ http://cdn2.pishow.tv/live/140/master.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S16 24x7
-http://xtv.ooo:8080/98267/02727/207233
+http://xtv.ooo:8080/9019212/6611553/207233
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,BIGG BOSS S15 24x7
-http://xtv.ooo:8080/98267/02727/219642
+http://xtv.ooo:8080/9019212/6611553/219642
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH01
-http://xtv.ooo:8080/98267/02727/340808
+http://xtv.ooo:8080/9019212/6611553/340808
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" ,CID | 24x7 CH02
-http://xtv.ooo:8080/98267/02727/340873
+http://xtv.ooo:8080/9019212/6611553/340873
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" ,CRIME PATROL Shatrak 24x7
-http://xtv.ooo:8080/98267/02727/340874
+http://xtv.ooo:8080/9019212/6611553/340874
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" ,CRIME PATROL DIAL100 24x7
-http://xtv.ooo:8080/98267/02727/340875
+http://xtv.ooo:8080/9019212/6611553/340875
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" ,CRIME PATROL 2.0 24x7
-http://xtv.ooo:8080/98267/02727/340876
+http://xtv.ooo:8080/9019212/6611553/340876
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" ,The Kapil Sharma Show 24x7
 http://xtv.ooo:8080/live/68984368/97547998/384084.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" ,Indian Idol S13 24x7
@@ -490,11 +490,11 @@ http://xtv.ooo:8080/live/68984368/97547998/344483.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" ,Super Dancer Chapter4 24x7
 http://xtv.ooo:8080/live/68984368/97547998/344486.ts
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" ,Crime Patrol Shatrak S2 24x7
-http://xtv.ooo:8080/98267/02727/345742
+http://xtv.ooo:8080/9019212/6611553/345742
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" ,HORROR DRAMA 24x7
-http://xtv.ooo:8080/98267/02727/368954
+http://xtv.ooo:8080/9019212/6611553/368954
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" ,CID | 24x7 CH03
-http://xtv.ooo:8080/98267/02727/378909
+http://xtv.ooo:8080/9019212/6611553/378909
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/9019212/6611553/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
@@ -567,7 +567,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
-http://xtv.ooo:8080/live/98267/02727/206280.ts
+http://xtv.ooo:8080/live/9019212/6611553/206280.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2212.ts
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8

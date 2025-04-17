@@ -495,10 +495,6 @@ http://xtv.ooo:8080/98267/02727/345742
 http://xtv.ooo:8080/98267/02727/368954
 #EXTINF:-1 group-title="INDIAN | SHOW ENTERTAINMENT 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png" ,CID | 24x7 CH03
 http://xtv.ooo:8080/98267/02727/378909
-
-
-
-
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/9019212/6611553/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD

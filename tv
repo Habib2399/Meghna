@@ -24,7 +24,7 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png" group-title="BANGLADESHI", Atn Islamik
 https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla 
-http://38.96.178.201/live/ATNBangla/index.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1181200.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla Uk
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
@@ -48,7 +48,7 @@ http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV News
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="BANGLADESHI", Bangla Tv Europe

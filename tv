@@ -110,8 +110,8 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 http://172.20.21.22/live/skyfeed1006/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/g0KCQT" group-title="BANGLADESHI", Gaan Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", Global Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", 3329133813 Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/3329133813-g.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="BANGLADESHI", Green Tv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
@@ -188,7 +188,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Nbw3bKO.png" group-title="BANGLADESHI", Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tfPlgYv.jpg" group-title="BANGLADESHI", Varendra Tv
-https://global.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
+https://3329133813.ncare.live/live-orgin/varendratv.stream/playlist.m3u8
 
 
 
@@ -274,11 +274,11 @@ http://xtv.ooo:8080/live/06865926/38568386/206054.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV HD
 http://109.61.81.147:2080/cdn2/4837/video.m3u8?token=4444
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/yYmjkzC8/download-9.png" group-title="MUSIC", 70s
-http://xtv.ooo:8080/live/global/global/346356.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/346356.ts
 #EXTINF: -1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/03/filmigane1.webp" group-title="MUSIC", Shemaroo filmi Gane
 https://is.gd/WOeLN9.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FztbHTPS/NOW-80s-logo.png" group-title="MUSIC", 80s
-http://xtv.ooo:8080/live/global/global/346357.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/346357.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhkxJBpQ/image.png" group-title="MUSIC", V2BEAT TV
 https://static.jagobd.com.bd/live-orgin/v2beattv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" group-title="MUSIC", B4U Music
@@ -388,7 +388,7 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF: -1 tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF: -1 tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/live/global/global/112973.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/112973.ts
 #EXTINF: -1 tvg-logo="https://da.gd/zGbMPf" group-title="INDIAN", Star Gold HD
 http://stvlive.net:8080/stargold2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/yNuex" group-title="INDIAN", Star Gold 2
@@ -545,17 +545,17 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
-http://xtv.ooo:8080/global/global/355013
+http://xtv.ooo:8080/3329133813/11223344/355013
 #EXTINF:-1 group-title="Documentary" ,AF: FashionTV
-http://xtv.ooo:8080/global/global/347499
+http://xtv.ooo:8080/3329133813/11223344/347499
 #EXTINF:-1 group-title="Documentary" ,BE: FashionTV
-http://xtv.ooo:8080/global/global/348339
+http://xtv.ooo:8080/3329133813/11223344/348339
 #EXTINF:-1 group-title="Documentary" ,US: Nasa TV
-http://xtv.ooo:8080/global/global/346445
+http://xtv.ooo:8080/3329133813/11223344/346445
 #EXTINF:-1 group-title="Documentary" Discovery  Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
-http://xtv.ooo:8080/global/global/346431
+http://xtv.ooo:8080/3329133813/11223344/346431
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
 https://keralamaxtv.com/sliv/stream.m3u8?id=852&e=.m3u8|Referer=https://keralamaxtv.com/
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
@@ -590,7 +590,7 @@ http://103.122.74.6:8888/hls/TLC.HD.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
-http://xtv.ooo:8080/global/global/363004
+http://xtv.ooo:8080/3329133813/3329133813/363004
 #EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
 http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature
@@ -639,13 +639,13 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
-http://xtv.ooo:8080/global/global/109992
+http://xtv.ooo:8080/3329133813/3329133813/109992
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
 https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
-http://xtv.ooo:8080/global/global/167580
+http://xtv.ooo:8080/3329133813/3329133813/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
-http://xtv.ooo:8080/global/global/167580
+http://xtv.ooo:8080/3329133813/3329133813/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 1
 http://dv.t-tvbd.xyz:8080/live/Reduan@728/Reduan@728/408.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TNT_Sports_Logo.svg" TNT SPORTS 2
@@ -661,17 +661,17 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , TNT
 http://14.128.12.54/cric/m3u8.php/bbtsp1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" , StarzPlay Criclife 2
-http://xtv.ooo:8080/global/global/355009
+http://xtv.ooo:8080/3329133813/3329133813/355009
 #EXTINF:-1 group-title="SPORTS" , StarzPlay Criclife 3
-http://xtv.ooo:8080/global/global/355010
+http://xtv.ooo:8080/3329133813/3329133813/355010
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" tvg-id="starsportsselecthd2.in" ,IN | STAR SPORTS SELECT 2
-http://xtv.ooo:8080/global/global/167579
+http://xtv.ooo:8080/3329133813/3329133813/167579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
-http://xtv.ooo:8080/global/global/167578
+http://xtv.ooo:8080/3329133813/3329133813/167578
 #EXTINF:-1 group-title="SPORTS",  Willow Xtra
 https://criclive.moviesflixter.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" ,IN: DD Sports
-http://xtv.ooo:8080/global/global/167588
+http://xtv.ooo:8080/3329133813/3329133813/167588
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" tvg-id="skysportscricket.uk" ,UK: Sky Sports Cricket
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://content.api.news/v3/images/bin/272ba4181a246bc40d4bab3c8e088d46,TSN 1 🇨🇦
@@ -686,27 +686,27 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS",T20 WORLD CUP 01
-http://xtv.ooo:8080/global/global/219643
+http://xtv.ooo:8080/3329133813/3329133813/219643
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501
-http://xtv.ooo:8080/global/global/167593
+http://xtv.ooo:8080/3329133813/3329133813/167593
 #EXTINF:-1 group-title=SPORTS, Sports 18
 http://103.175.242.10:8080/sports18/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="supersportfootball.za" ,Af | DSTV: Super Sports Football
-http://xtv.ooo:8080/global/global/238480
+http://xtv.ooo:8080/3329133813/3329133813/238480
 #EXTINF:-1 group-title="SPORTS" tvg-id="supersportcricket.za" ,Af | DSTV: Super Sports Cricket
-http://xtv.ooo:8080/global/global/238475
+http://xtv.ooo:8080/3329133813/3329133813/238475
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" tvg-id="supersportblitz.za" ,Af | DSTV: Super Sports Blitz
-http://xtv.ooo:8080/global/global/238487
+http://xtv.ooo:8080/3329133813/3329133813/238487
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" tvg-id="supersportgolf.za" ,Af | DSTV: Super Sports Golf
-http://xtv.ooo:8080/global/global/238488
+http://xtv.ooo:8080/3329133813/3329133813/238488
 #EXTINF:-1 group-title="SPORTS"tvg-id="supersportlaliga.za" ,Af | DSTV: Super Sports La Liga
-http://xtv.ooo:8080/global/global/238479
+http://xtv.ooo:8080/3329133813/3329133813/238479
 #EXTINF:-1 group-title="SPORTS"tvg-id="supersportgrandstand.za" ,Af | DSTV: Super Sports Grand Stand
-http://xtv.ooo:8080/global/global/238476
+http://xtv.ooo:8080/3329133813/3329133813/238476
 #EXTINF:-1 group-title="SPORTS"tvg-id="supersportmotorsport.za" ,Af | DSTV: Super Sports MotorSports
-http://xtv.ooo:8080/global/global/238490
+http://xtv.ooo:8080/3329133813/3329133813/238490
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" tvg-id="supersportpsl.za" ,DSTV: Super Sports PSL
-http://xtv.ooo:8080/global/global/238477
+http://xtv.ooo:8080/3329133813/3329133813/238477
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/3137.ts
 #EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 1
@@ -728,11 +728,11 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pngfind.com/pngs/m/211-2112783_reliance-jio-logo-hd-png-download.png" ,CRI: JIO CRICKET HD
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" ,CRI: TEN CRICKET HD
-http://xtv.ooo:8080/live/global/global/167587.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/167587.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" ,CRI: SONY TEN 1 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277343
 #EXTINF:-1 group-title="SPORTS" ,CRI: SONY Ten 2 HD.
-http://xtv.ooo:8080/live/global/global/109984.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/109984.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" ,CRI: SONY TEN 3 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/277345
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" ,CRI: STAR SPORTS 2 HD
@@ -765,7 +765,7 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : DUBAI SPORT 1 HD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299875
-http://xtv.ooo:8080/live/global/global/109988.ts
+http://xtv.ooo:8080/live/3329133813/3329133813/109988.ts
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 2 SD
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294857
 #EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 1 SD

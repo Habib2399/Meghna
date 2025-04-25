@@ -438,7 +438,7 @@ http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-http://170.254.18.107/ZEECINEMA/index.m3u8
+http://xtv.ooo:8080/live/3329133813/11223344/221261.ts
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol
@@ -599,6 +599,8 @@ http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="CARTOON", KHUSHBOO BANGLA
@@ -863,7 +865,71 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389161
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389162
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389163
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389164
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389165
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 6 FHD
+http://xtv.ooo:8080/3329133813/11223344/389166
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 7 FHD
+http://xtv.ooo:8080/3329133813/11223344/389167
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 8 FHD
+http://xtv.ooo:8080/3329133813/11223344/389168
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 9 FHD
+http://xtv.ooo:8080/3329133813/11223344/389169
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 10 FHD
+http://xtv.ooo:8080/3329133813/11223344/389170
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 11 FHD
+http://xtv.ooo:8080/3329133813/11223344/389171
+#EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 12 FHD
+http://xtv.ooo:8080/3329133813/11223344/389172
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389260
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389261
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389262
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389263
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389264
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 6 FHD
+http://xtv.ooo:8080/3329133813/11223344/389265
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 7 FHD
+http://xtv.ooo:8080/3329133813/11223344/389266
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 8 FHD
+http://xtv.ooo:8080/3329133813/11223344/389267
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 9 FHD
+http://xtv.ooo:8080/3329133813/11223344/389268
+#EXTINF:-1 group-title="CineMania Hollywood Sci-Fi" ,CineMania Hollywood Sci-Fi 10 FHD
+http://xtv.ooo:8080/3329133813/11223344/389269
+#EXTINF:-1 group-title="CineMania Hollywood War" ,CineMania Hollywood War 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389280
+#EXTINF:-1 group-title="CineMania Hollywood War" ,CineMania Hollywood War 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389281
+#EXTINF:-1 group-title="CineMania Hollywood War" ,CineMania Hollywood War 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389282
+#EXTINF:-1 group-title="CineMania Hollywood War" ,CineMania Hollywood War 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389283
+#EXTINF:-1 group-title="CineMania Hollywood War" ,CineMania Hollywood War 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389284
+#EXTINF:-1 group-title="CineMania Bangla Cinema" ,CineMania Bangla 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389422
+#EXTINF:-1 group-title="CineMania Bangla Cinema" ,CineMania Bangla 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389423
+#EXTINF:-1 group-title="CineMania Bangla Cinema" ,CineMania Bangla 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389424
+#EXTINF:-1 group-title="CineMania Bangla Cinema" ,CineMania Bangla 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389425
+#EXTINF:-1 group-title="CineMania Bangla Cinema" ,CineMania Bangla 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389426
 
 #EXTINF:-1 group-title="24/7 MOVIES" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" ,01 BLOCKBUSTER
 http://xtv.ooo:8080/3329133813/11223344/341039

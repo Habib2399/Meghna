@@ -864,8 +864,60 @@ https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 
-
 #EXTM3U
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: Best of New Release 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389034
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: Best of New Release 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389035
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: Best of New Release 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389036
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: Best of New Release 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389037
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: Best of New Release 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389038
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: New Release 1 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389039
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: New Release 2 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389040
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: New Release 3 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389041
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: New Release 4 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389042
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_en.jpg" ,EN: New Release 5 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389043
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: Best of New Release 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389044
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: Best of New Release 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389045
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: Best of New Release 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389046
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: New Release 1 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389047
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: New Release 2 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389048
+#EXTINF:-1 group-title="CineMania New Release 24/7" tvg-logo="http://logo.opplextv.com/logo/new_release_hi.jpg" ,IN: New Release 3 FHD (All day one movie)
+http://xtv.ooo:8080/3329133813/11223344/389049
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 1 FHD
+http://xtv.ooo:8080/3329133813/11223344/389250
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 2 FHD
+http://xtv.ooo:8080/3329133813/11223344/389251
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 3 FHD
+http://xtv.ooo:8080/3329133813/11223344/389252
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 4 FHD
+http://xtv.ooo:8080/3329133813/11223344/389253
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 5 FHD
+http://xtv.ooo:8080/3329133813/11223344/389254
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 6 FHD
+http://xtv.ooo:8080/3329133813/11223344/389255
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 7 FHD
+http://xtv.ooo:8080/3329133813/11223344/389256
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 8 FHD
+http://xtv.ooo:8080/3329133813/11223344/389257
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 9 FHD
+http://xtv.ooo:8080/3329133813/11223344/389258
+#EXTINF:-1 group-title="CineMania Hollywood Horror" ,CineMania Hollywood Horror 10 FHD
+http://xtv.ooo:8080/3329133813/11223344/389259
+
 #EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 1 FHD
 http://xtv.ooo:8080/3329133813/11223344/389161
 #EXTINF:-1 group-title="CineMania Animation Hindi" ,CineMania Animation Hindi 2 FHD

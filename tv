@@ -82,7 +82,7 @@ https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
 https://vokta.raytahost.com/live/voktatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-#EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI", Magic Bangla tv
+#EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI",  Magic Bangla tv
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zRN30eE.jpg" group-title="BANGLADESHI", Channel 52
 http://208.86.19.13:81/503.stream/index.m3u8?

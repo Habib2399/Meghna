@@ -603,12 +603,10 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="Tplay", Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="Tplay", Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-
 EXTINF: -1 tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png" group-title="Tplay", Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 

@@ -139,6 +139,7 @@ https://ythls-v2.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg" group-title="BANGLADESHI", Rajdhani TV
 https://app.jagobd.com.bd/live-orgin/rajdhanitv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png" group-title="BANGLADESHI", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
 https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
@@ -205,7 +206,7 @@ http://38.96.178.201/live/AkashAath/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
 https://cflare.mooo.com/hls/colorsbangla.m3u8
 
@@ -300,7 +301,7 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
@@ -378,6 +379,7 @@ https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colors
 https://channel31.mdc6.com/1180273453/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
 #EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", All Time Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
@@ -641,7 +643,7 @@ http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YTfbaxj.png" group-title="CARTOON", Super Hungama tv
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/s0I9JCk.png" group-title="CARTOON", Doraemon
-http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zf6GvgkK/73e25ee55303d44a1a979b090cdf398269af3ad86cb9ecae416acacdcd99d9a8.png" group-title="CARTOON", Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
@@ -820,8 +822,8 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick
 http://xtv.ooo:8080/live/3329133813/11223344/153156.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick Hindi
-http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Gopal Vaar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="CARTOON", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
@@ -839,7 +841,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been
 https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg" group-title="CARTOON", Motu Patlu
-http://xtv.ooo:8080/live/3329133813/11223344/307079.ts
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF: -1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="CARTOON", KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JYQvZ9K.png" group-title="CARTOON", Tom & Jerry

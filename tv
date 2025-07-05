@@ -419,6 +419,7 @@ https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxt
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 https://NadimRazaTV.short.gy/SonyMaxHD.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
@@ -562,7 +563,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.
 #EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
 http://xtv.ooo:8080/3329133813/11223344/346431
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
-http://xtv.ooo:80/live/farhan5234/farhan24/238546.ts
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Travel Channel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #EXTINF:-1 group-title="Documentary" , Animel planet

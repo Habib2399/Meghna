@@ -246,9 +246,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA", Rupshi Bangla
 http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
-http://103.175.242.10:8080/zeebangla/index.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
-http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
@@ -440,7 +440,7 @@ https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg" group-title="INDIAN", & explore
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF: -1 tvg-logo="https://shorturl.at/WM0Rl" group-title="INDIAN", & Picture HD
-http://xtv.ooo:8080/live/3329133813/11223344/66181.ts
+https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
@@ -460,7 +460,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg" group-title="INDIAN", Zee Bollywood
 http://45.148.145.57/IN_ZEEBOLLYWOODHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png" group-title="INDIAN", Zee Action
-http://watchindia.net:8880/live/80817/80817/821.ts
+https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg" group-title="INDIAN", Zee Talkies
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png" group-title="INDIAN", Zee Tamil
@@ -514,7 +514,7 @@ http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-id="axnhd.in" ,IN | HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-id="andflixhd.in" ,IN | & Flix FHD
-http://xtv.ooo:8080/3329133813/11223344/66236
+https://live.drmlive-02.workers.dev/zee/0-9-channel_2105335046.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" ,IN: & Explor FHD
 http://xtv.ooo:8080/3329133813/11223344/66241
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-id="mnx.in" ,IN: MNX FHD

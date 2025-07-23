@@ -366,7 +366,7 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
-http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=4166&deviceMac=00:1A:79:F3:9F:F5
+https://tvsen6.aynaott.com/B4U_Kadak/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="INDIAN", Colors

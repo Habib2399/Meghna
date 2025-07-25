@@ -7,7 +7,7 @@ http://164.215.98.132:2082/8649G54859/8649G54859/396
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgQUXlzQaAalFxaR8ZBBy88eKqGvjZLd85ClTuQXkTVHxZVI-Bxwm1b2g&s=10" group-title="Islamic",Rtv islam
 https://tvsen6.aynaott.com/rtvislam/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10" group-title="Islamic",Iqra
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10.jpg" group-title="Islamic",Iqra
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK-sJSl_a2sQ_9sYgRNh0-CKehgFcLdMJ0iA&s", Tv one
 https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8

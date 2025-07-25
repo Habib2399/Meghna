@@ -43,11 +43,11 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Ks7J5dK/images-17.jpg" group-title="BANGLADESHI", Amar Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
-http://103.163.247.39:80/local_out/asiantv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLADESHI", Anando Tv
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
+https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JdC9P90.jpg" group-title="BANGLADESHI", Bangla Tv
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV News
@@ -73,11 +73,11 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
-https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESHI", Channel 9
-https://bozztv.com/rongo/rongo-Channel9/tracks-v2a1/mono.m3u8
+https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Vokta Odhikar tv
@@ -93,7 +93,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3qLCjpr/logo-chenl.png" group-title="BANGLADESHI", CHANNEL EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+https://tvsen6.aynaott.com/deshtv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
 https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLADESHI", Deshi Tv
@@ -103,7 +103,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/dDEw284.png" group-title="BANGLADESHI", Duronto
 http://tv.bdiptv.store/live/restreax/refstream/109.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
-https://aynaott.fredflix.fun/h9KUj-QpblpNKpS-vQVPoUoh9aNBY2Kl-cEIjG5B98a6jZ5YalgjS9CbctCiOjcCVIUhwKoth-7_ergpi4BQZFVNtz7lpoNhWXN9UbmbDAffcmvRcNoUun1NKl5-VtI3l1gWXKrw1xOiFX7Y-kQNlcyXFnKSdPJUniVMBhz5Afb1qC879Dn2rILJiXRq02G8GlzuIMIFVZc6UAPXDWvoKWihTg9hkFPq2dJdM_X2L1M.ts
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
@@ -114,8 +114,8 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 http://172.20.21.22/live/skyfeed1006/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/g0KCQT" group-title="BANGLADESHI", Gaan Bangla
 https://stream.gia.tv/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", 3329133813 Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/3329133813-g.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", Global Tv
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png" group-title="BANGLADESHI", Green Tv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent
@@ -147,7 +147,7 @@ https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
 http://172.20.21.22/live/funtime109/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", Nagorik Songlap
 http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ecXmhgz.jpg" group-title="BANGLADESHI", The Channel Tv
@@ -163,7 +163,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
 https://mytvbangla.com/0.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
-http://xtv.ooo:8080/live/majid2409/4702020/245920.ts
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="BANGLADESHI", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TizGvtb.png" group-title="BANGLADESHI", Millennium Tv

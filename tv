@@ -665,7 +665,7 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" tvg-id="sonysixhd.in" ,SONY SIX (4K)
 http://xtv.ooo:8080/3329133813/3329133813/109992
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" tvg-id="dsport.in" ,Sony Liv
-https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-id="sonysixhd.in" ,IN | SONY TEN 5
 http://xtv.ooo:8080/3329133813/3329133813/167580
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" ,IN: Sony Ten 4
@@ -774,6 +774,8 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237213
 http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/237218
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" , Sony Sports 1
 http://172.20.21.22/live/skyfeed1007/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" , Sony Sports 3
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,BEIN SPORT ENGLISH 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" ,BEIN SPORT ENGLISH 1

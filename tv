@@ -186,7 +186,7 @@ https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mzolgwz.jpg" group-title="BANGLADESHI", CHANNEL S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/RKwkO" group-title="BANGLADESHI", T Sports
-http://v5on.site/live/play.php?channel=https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+http://103.15.140.138/tsports/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/eeANyjD.jpg" group-title="BANGLADESHI", TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qKf0Ih3.png" group-title="BANGLADESHI", TV ONE

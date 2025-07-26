@@ -241,7 +241,7 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD
-https://tv.mymoviebazar.net/stream/stream205.m3u8
+https://re-stream.netlify.app/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
@@ -280,7 +280,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+https://etr.bongoflix.top/live/dbefbb0b-b2e0-4e34-8108-8852d53ee766.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV HD
@@ -314,7 +314,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+https://etr.bongoflix.top/live/0fc15069-e437-4138-a1bd-f62aaa93773e.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wjwzXVpV/image.png" group-title="MUSIC", Zee Etc
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/55208.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" ,24/7 MUSIC 17

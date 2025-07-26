@@ -278,7 +278,7 @@ http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9xm Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jawla
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan
 https://etr.bongoflix.top/live/dbefbb0b-b2e0-4e34-8108-8852d53ee766.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bBJfFIN.png" group-title="MUSIC", MTV
@@ -310,7 +310,7 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC", AB MASTII
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
+https://cc-cfvkgs92o8j3a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfvkgs92o8j3a/mastii/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/uqguoe" group-title="MUSIC", YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="MUSIC", 9X JHAKAAS

@@ -843,12 +843,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Nick
 http://185.189.225.157/Nick/index.m3u8
+http://163.227.238.44/NickBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="CARTOON", Gopal Vaar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="CARTOON", GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
-https://api.bongohub.pw/api/bio.php?ac=sonic
+http://163.227.238.44/SonicBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bqz9EXY.png" group-title="CARTOON", WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vbi9liD.jpg" group-title="CARTOON", WOW Comedy

@@ -219,7 +219,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
-https://cflare.mooo.com/hls/colorsbangla.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla
 http://vo01.mohdtv.com:8880/live/voby0315/1393841580cde0052c21/1930.ts
@@ -247,7 +247,6 @@ https://re-stream.netlify.app/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="http://stream247.live/assets/images/Sony%20Aath1731407792.png" group-title="KOLKATA", Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/PA1HI" group-title="KOLKATA", Star Jalsha Movies
-
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png" group-title="KOLKATA", SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8

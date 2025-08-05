@@ -514,7 +514,7 @@ http://xtv.ooo:8080/3329133813/11223344/378909
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/3329133813/11223344/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
-http://xtv.ooo:8080/3329133813/11223344/66213
+http://89.187.191.99:8080/foxmovie/index.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-id="sonypixhd.in" ,IN | Sony Pix FHD
 http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-id="andprivehd.in" ,IN | &Prive FHD

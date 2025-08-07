@@ -605,7 +605,7 @@ http://103.122.74.6:8888/hls/TLC.HD.m3u8
 #EXTINF:-1 group-title="Documentary" , HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Documentary" ,DOC | Nat Geo Wild and Worlds Deadliest
-http://xtv.ooo:8080/3329133813/3329133813/363004
+http://v5on.site/yt-live/live.php?video_id=0QcBs9Ulgcw.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="InvestigationDiscovery.ca" ,IND: Investigation Discovery Hindi
 http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/sODmXS5.jpg" group-title="Documentary", Love Nature

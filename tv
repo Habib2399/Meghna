@@ -434,7 +434,7 @@ http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ADXlju2.png" group-title="INDIAN", Sony WAH
 https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD
 https://candy-live.linkchur.top/api/9bcb965282/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4X1Sw66.jpg" group-title="INDIAN", Sony Max 2
@@ -865,7 +865,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/311774.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5AygzFq.jpg" group-title="CARTOON", WOW Kids Action
 http://xtv.ooo:8080/live/T4S00515/820172/314753.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NDpwAkN.png" group-title="CARTOON", Sony Yay
-https://bongohub.pw/bioscope.php?cc=sony-yay-live
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NDpwAkN.png" group-title="CARTOON", Sony Yay Hindi
 http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FRrHfYJ.jpg" group-title="CARTOON", Mr.Been

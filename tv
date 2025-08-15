@@ -590,7 +590,7 @@ https://os.mxonlive.workers.dev/azers/animalplanethd/276935.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="discoveryhd.in" ,Discovery
 http://146.120.212.5:8004/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-id="discoveryturbo.in" ,IND: Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+https://tvsen6.aynaott.com/discovery_turbo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Hindi
 http://xtv.ooo:8080/live/3329133813/11223344/206280.ts
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" tvg-id="travelxphd.in" ,IND: Travel_XP Bangla

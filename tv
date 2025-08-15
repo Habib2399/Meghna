@@ -270,7 +270,7 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TVX54be.jpg" group-title="MUSIC", Eten TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC", Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
+https://tvsen6.aynaott.com/SangeetBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" group-title="MUSIC", Dhoom Music
 
 https://tvsen6.aynaott.com/dhoom/tracks-v1a1/mono.ts.m3u8
@@ -379,7 +379,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
-http://fprvjetz.mexamo.xyz:80/B35DKUNA/HX3WLEH7/268300
+https://tvsen7.aynaott.com/B4U_Movies_India/tracks-v1a1/mono.ts.m3u8?
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XG6VhVF.jpg" group-title="INDIAN", B4U Kadak
 https://tvsen6.aynaott.com/B4U_Kadak/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN",BFLIX Movie

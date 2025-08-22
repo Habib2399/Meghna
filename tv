@@ -460,7 +460,7 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/6032.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Clzyj12.jpg" group-title="INDIAN", Zee tv
 http://170.254.18.107/ZEE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png" group-title="INDIAN", Zee Cinema HD
-https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
+http://161.248.201.46:8184/ZEE_CINEAMA/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/FEppCFCt76d.png" group-title="INDIAN", Hungama Tv
 https://is.gd/N7vaq0.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png" group-title="INDIAN", Zee Anmol

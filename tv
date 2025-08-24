@@ -27,7 +27,6 @@ http://164.215.98.132:2082/8649G54859/8649G54859/71089
 http://164.215.98.132:2082/8649G54859/8649G54859/71094
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" ,قرآن كامل- بيشه وا قادر
 http://164.215.98.132:2082/8649G54859/8649G54859/71444
-
 #EXTINF:-1 group-title="Islamic" tvg-logo="http://www.ce4arab.com/vb7/image/sub/05_2016/05103604am-1154320-83322-0-0.png" , Bangla waz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
@@ -89,8 +88,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Vokta Odhikar tv
-https://vokta.raytahost.com/live/voktatv/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vyo1cXY.jpg" group-title="BANGLADESHI", Srktv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 #EXTINF: -1 tvg-logo="https://rb.gy/43n70f" group-title="BANGLADESHI",  Magic Bangla tv

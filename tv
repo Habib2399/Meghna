@@ -858,7 +858,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9fd5Oq8.png" group-title="CARTOON", Sonic
 http://163.227.238.44/SonicBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bqz9EXY.png" group-title="CARTOON", WOW Kids
-http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://ekanno.vercel.app/live/wow-kidz-hindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vbi9liD.jpg" group-title="CARTOON", WOW Comedy
 http://xtv.ooo:8080/live/T4S00515/820172/311774.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5AygzFq.jpg" group-title="CARTOON", WOW Kids Action

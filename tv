@@ -119,7 +119,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ag0z5T3.jpg" group-title="BANGLADESHI", FBTV
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="BANGLADESHI", Gazi Tv
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+http://103.175.242.10:8080/gtv/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="BANGLADESHI", Music Bangla
 http://live.matribhumitv.com/music-bangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kRkRSvD.png" group-title="BANGLADESHI", Global Tv

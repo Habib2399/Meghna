@@ -279,7 +279,7 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AujiJIX.png" group-title="MUSIC", 8xm HD
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/X7kY6Ywy/image86b5f8b135364512.png" group-title="MUSIC", 9xm Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/1.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Jawla
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/u6xCqD3.jpg" group-title="MUSIC", 9x Tashan

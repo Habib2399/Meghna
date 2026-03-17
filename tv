@@ -1427,7 +1427,7 @@ http://v5on.site/yt-live/live.php?video_id=q8XK6oJTbtI.m3u8
 http://103.175.242.10:8080/natgeo/index.m3u8
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
-https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | Nat Geo Wild
 http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="africamagicepic.za" ,TLC

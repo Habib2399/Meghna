@@ -240,7 +240,7 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png" group-title="KOLKATA", Sun Bangla
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA", Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg" group-title="KOLKATA", Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/hWO0T" group-title="KOLKATA", Star Jalsha HD

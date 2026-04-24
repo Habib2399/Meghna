@@ -153,7 +153,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
-https://tvsen6.aynaott.com/news24/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Channel 16
 http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 #EXTINF: -1 tvg-logo="https://da.gd/qmtN" group-title="BANGLADESHI", Nexus Tv
